@@ -1,0 +1,33 @@
+{
+"type": "FeatureCollection",
+"name": "fabdac62b8ed_visibility",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "visible_points": 4, "total_points": 59, "visibility_pct": 6.7796610169491522 }, "geometry": { "type": "Point", "coordinates": [ -0.353529662992858, 51.535267163197467 ] } },
+{ "type": "Feature", "properties": { "visible_points": 9, "total_points": 57, "visibility_pct": 15.789473684210526 }, "geometry": { "type": "Point", "coordinates": [ -0.353329966921502, 51.535264360979752 ] } },
+{ "type": "Feature", "properties": { "visible_points": 7, "total_points": 53, "visibility_pct": 13.20754716981132 }, "geometry": { "type": "Point", "coordinates": [ -0.353130270883191, 51.535261558421851 ] } },
+{ "type": "Feature", "properties": { "visible_points": 9, "total_points": 57, "visibility_pct": 15.789473684210526 }, "geometry": { "type": "Point", "coordinates": [ -0.353825317033797, 51.535379218901703 ] } },
+{ "type": "Feature", "properties": { "visible_points": 6, "total_points": 59, "visibility_pct": 10.16949152542373 }, "geometry": { "type": "Point", "coordinates": [ -0.353625620427186, 51.535376417191316 ] } },
+{ "type": "Feature", "properties": { "visible_points": 9, "total_points": 59, "visibility_pct": 15.254237288135593 }, "geometry": { "type": "Point", "coordinates": [ -0.353425923853613, 51.535373615140749 ] } },
+{ "type": "Feature", "properties": { "visible_points": 9, "total_points": 57, "visibility_pct": 15.789473684210526 }, "geometry": { "type": "Point", "coordinates": [ -0.353226227313085, 51.535370812749974 ] } },
+{ "type": "Feature", "properties": { "visible_points": 7, "total_points": 52, "visibility_pct": 13.461538461538462 }, "geometry": { "type": "Point", "coordinates": [ -0.353026530805605, 51.535368010019013 ] } },
+{ "type": "Feature", "properties": { "visible_points": 0, "total_points": 45, "visibility_pct": 0.0 }, "geometry": { "type": "Point", "coordinates": [ -0.354120972581361, 51.535491273847505 ] } },
+{ "type": "Feature", "properties": { "visible_points": 3, "total_points": 53, "visibility_pct": 5.6603773584905666 }, "geometry": { "type": "Point", "coordinates": [ -0.3539212754395, 51.535488472644438 ] } },
+{ "type": "Feature", "properties": { "visible_points": 14, "total_points": 59, "visibility_pct": 23.728813559322035 }, "geometry": { "type": "Point", "coordinates": [ -0.35372157833067, 51.535485671101178 ] } },
+{ "type": "Feature", "properties": { "visible_points": 12, "total_points": 59, "visibility_pct": 20.33898305084746 }, "geometry": { "type": "Point", "coordinates": [ -0.353521881254886, 51.535482869217731 ] } },
+{ "type": "Feature", "properties": { "visible_points": 11, "total_points": 59, "visibility_pct": 18.64406779661017 }, "geometry": { "type": "Point", "coordinates": [ -0.353322184212134, 51.535480066994097 ] } },
+{ "type": "Feature", "properties": { "visible_points": 10, "total_points": 56, "visibility_pct": 17.857142857142858 }, "geometry": { "type": "Point", "coordinates": [ -0.353122487202438, 51.535477264430277 ] } },
+{ "type": "Feature", "properties": { "visible_points": 4, "total_points": 48, "visibility_pct": 8.3333333333333321 }, "geometry": { "type": "Point", "coordinates": [ -0.354017234314371, 51.535597726303187 ] } },
+{ "type": "Feature", "properties": { "visible_points": 8, "total_points": 56, "visibility_pct": 14.285714285714285 }, "geometry": { "type": "Point", "coordinates": [ -0.353817536703324, 51.535594924927061 ] } },
+{ "type": "Feature", "properties": { "visible_points": 13, "total_points": 59, "visibility_pct": 22.033898305084744 }, "geometry": { "type": "Point", "coordinates": [ -0.353617839125317, 51.535592123210769 ] } },
+{ "type": "Feature", "properties": { "visible_points": 11, "total_points": 59, "visibility_pct": 18.64406779661017 }, "geometry": { "type": "Point", "coordinates": [ -0.353418141580353, 51.535589321154255 ] } },
+{ "type": "Feature", "properties": { "visible_points": 6, "total_points": 59, "visibility_pct": 10.16949152542373 }, "geometry": { "type": "Point", "coordinates": [ -0.353218444068427, 51.535586518757562 ] } },
+{ "type": "Feature", "properties": { "visible_points": 7, "total_points": 53, "visibility_pct": 13.20754716981132 }, "geometry": { "type": "Point", "coordinates": [ -0.353018746589557, 51.535583716020668 ] } },
+{ "type": "Feature", "properties": { "visible_points": 7, "total_points": 49, "visibility_pct": 14.285714285714285 }, "geometry": { "type": "Point", "coordinates": [ -0.353913495545147, 51.535704178668993 ] } },
+{ "type": "Feature", "properties": { "visible_points": 5, "total_points": 55, "visibility_pct": 9.0909090909090917 }, "geometry": { "type": "Point", "coordinates": [ -0.353713797464921, 51.535701377119814 ] } },
+{ "type": "Feature", "properties": { "visible_points": 8, "total_points": 58, "visibility_pct": 13.793103448275861 }, "geometry": { "type": "Point", "coordinates": [ -0.353514099417728, 51.535698575230427 ] } },
+{ "type": "Feature", "properties": { "visible_points": 8, "total_points": 59, "visibility_pct": 13.559322033898304 }, "geometry": { "type": "Point", "coordinates": [ -0.353314401403584, 51.535695773000882 ] } },
+{ "type": "Feature", "properties": { "visible_points": 7, "total_points": 55, "visibility_pct": 12.727272727272727 }, "geometry": { "type": "Point", "coordinates": [ -0.353114703422483, 51.535692970431107 ] } },
+{ "type": "Feature", "properties": { "visible_points": 6, "total_points": 47, "visibility_pct": 12.76595744680851 }, "geometry": { "type": "Point", "coordinates": [ -0.352915005474439, 51.535690167521153 ] } }
+]
+}

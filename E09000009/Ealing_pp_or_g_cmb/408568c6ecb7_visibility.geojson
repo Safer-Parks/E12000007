@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"name": "408568c6ecb7_visibility",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "visible_points": 1, "total_points": 49, "visibility_pct": 2.0408163265306123 }, "geometry": { "type": "Point", "coordinates": [ -0.282739110368187, 51.552742167046944 ] } },
+{ "type": "Feature", "properties": { "visible_points": 2, "total_points": 45, "visibility_pct": 4.4444444444444446 }, "geometry": { "type": "Point", "coordinates": [ -0.282539348919987, 51.55273924477229 ] } },
+{ "type": "Feature", "properties": { "visible_points": 9, "total_points": 54, "visibility_pct": 16.666666666666664 }, "geometry": { "type": "Point", "coordinates": [ -0.283034695823638, 51.552854401937196 ] } },
+{ "type": "Feature", "properties": { "visible_points": 6, "total_points": 53, "visibility_pct": 11.320754716981133 }, "geometry": { "type": "Point", "coordinates": [ -0.282834933788247, 51.552851480126897 ] } },
+{ "type": "Feature", "properties": { "visible_points": 1, "total_points": 50, "visibility_pct": 2.0 }, "geometry": { "type": "Point", "coordinates": [ -0.282635171789818, 51.552848557978336 ] } },
+{ "type": "Feature", "properties": { "visible_points": 0, "total_points": 46, "visibility_pct": 0.0 }, "geometry": { "type": "Point", "coordinates": [ -0.282435409828354, 51.552845635491565 ] } },
+{ "type": "Feature", "properties": { "visible_points": 8, "total_points": 54, "visibility_pct": 14.814814814814813 }, "geometry": { "type": "Point", "coordinates": [ -0.283130520307177, 51.552963714845966 ] } },
+{ "type": "Feature", "properties": { "visible_points": 10, "total_points": 54, "visibility_pct": 18.518518518518519 }, "geometry": { "type": "Point", "coordinates": [ -0.282930757721558, 51.55296079316178 ] } },
+{ "type": "Feature", "properties": { "visible_points": 3, "total_points": 53, "visibility_pct": 5.6603773584905666 }, "geometry": { "type": "Point", "coordinates": [ -0.282730995172896, 51.552957871139348 ] } },
+{ "type": "Feature", "properties": { "visible_points": 6, "total_points": 50, "visibility_pct": 12.0 }, "geometry": { "type": "Point", "coordinates": [ -0.282531232661195, 51.552954948778677 ] } },
+{ "type": "Feature", "properties": { "visible_points": 3, "total_points": 45, "visibility_pct": 6.666666666666667 }, "geometry": { "type": "Point", "coordinates": [ -0.282331470186464, 51.552952026079744 ] } },
+{ "type": "Feature", "properties": { "visible_points": 11, "total_points": 53, "visibility_pct": 20.754716981132077 }, "geometry": { "type": "Point", "coordinates": [ -0.283226345303975, 51.553073027709686 ] } },
+{ "type": "Feature", "properties": { "visible_points": 9, "total_points": 54, "visibility_pct": 16.666666666666664 }, "geometry": { "type": "Point", "coordinates": [ -0.283026582168122, 51.553070106151615 ] } },
+{ "type": "Feature", "properties": { "visible_points": 8, "total_points": 54, "visibility_pct": 14.814814814814813 }, "geometry": { "type": "Point", "coordinates": [ -0.282826819069224, 51.553067184255298 ] } },
+{ "type": "Feature", "properties": { "visible_points": 7, "total_points": 53, "visibility_pct": 13.20754716981132 }, "geometry": { "type": "Point", "coordinates": [ -0.282627056007289, 51.553064262020726 ] } },
+{ "type": "Feature", "properties": { "visible_points": 8, "total_points": 47, "visibility_pct": 17.021276595744681 }, "geometry": { "type": "Point", "coordinates": [ -0.283322170814037, 51.553182340528338 ] } },
+{ "type": "Feature", "properties": { "visible_points": 12, "total_points": 52, "visibility_pct": 23.076923076923077 }, "geometry": { "type": "Point", "coordinates": [ -0.283122407127946, 51.553179419096381 ] } },
+{ "type": "Feature", "properties": { "visible_points": 6, "total_points": 54, "visibility_pct": 11.111111111111111 }, "geometry": { "type": "Point", "coordinates": [ -0.282922643478812, 51.553176497326184 ] } },
+{ "type": "Feature", "properties": { "visible_points": 11, "total_points": 40, "visibility_pct": 27.5 }, "geometry": { "type": "Point", "coordinates": [ -0.283417996837361, 51.553291653301926 ] } },
+{ "type": "Feature", "properties": { "visible_points": 7, "total_points": 45, "visibility_pct": 15.555555555555555 }, "geometry": { "type": "Point", "coordinates": [ -0.283218232601032, 51.553288731996084 ] } }
+]
+}
