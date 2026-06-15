@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "EALIN_17_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Chapata Topo Zboju", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 55, "park_offical_id": "EALIN_17" }, "geometry": { "type": "Point", "coordinates": [ -0.318356752, 51.511208087 ] } },
+{ "type": "Feature", "properties": { "name": "Al Panini Caf", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 55, "park_offical_id": "EALIN_17" }, "geometry": { "type": "Point", "coordinates": [ -0.322444439, 51.510537022 ] } },
+{ "type": "Feature", "properties": { "name": "Waitrose", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 55, "park_offical_id": "EALIN_17" }, "geometry": { "type": "Point", "coordinates": [ -0.321199894, 51.513049292 ] } }
+]
+}

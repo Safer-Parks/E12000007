@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "NEWHA_23_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Beckton Globe", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 60, "park_offical_id": "NEWHA_23" }, "geometry": { "type": "Point", "coordinates": [ 0.055171581, 51.514964877 ] } },
+{ "type": "Feature", "properties": { "name": "Beckton ASDA", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 60, "park_offical_id": "NEWHA_23" }, "geometry": { "type": "Point", "coordinates": [ 0.057957797, 51.51444779 ] } },
+{ "type": "Feature", "properties": { "name": "Beckton District Park North Park Toilets", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 60, "park_offical_id": "NEWHA_23" }, "geometry": { "type": "Point", "coordinates": [ 0.042775869, 51.516928432 ] } }
+]
+}

@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "TOWHA_520_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bancroft Arms", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "12:00-23:00", "Tue": "12:00-23:00", "Wed": "12:00-23:00", "Thu": "12:00-23:00", "Fri": "12:00-23:00", "Sat": "12:00-23:00", "Sun": "12:00-23:00", "index_right": 211, "park_offical_id": "TOWHA_520" }, "geometry": { "type": "Point", "coordinates": [ -0.04006952, 51.522790271 ] } },
+{ "type": "Feature", "properties": { "name": "JD Wetherspoons  The Half Moon", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "08:00-00:00", "Tue": "08:00-00:00", "Wed": "08:00-00:00", "Thu": "08:00-00:00", "Fri": "08:00-00:00", "Sat": "08:00-00:00", "Sun": "08:00-00:00", "index_right": 211, "park_offical_id": "TOWHA_520" }, "geometry": { "type": "Point", "coordinates": [ -0.045321286, 51.522173 ] } },
+{ "type": "Feature", "properties": { "name": "Stadium entrance", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 211, "park_offical_id": "TOWHA_520" }, "geometry": { "type": "Point", "coordinates": [ -0.034378468, 51.518640066 ] } },
+{ "type": "Feature", "properties": { "name": "Stepney City Farm", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 211, "park_offical_id": "TOWHA_520" }, "geometry": { "type": "Point", "coordinates": [ -0.042877793, 51.517150406 ] } },
+{ "type": "Feature", "properties": { "name": "Mackbear Coffee", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "06:00-23:00", "Tue": "06:00-23:00", "Wed": "06:00-23:00", "Thu": "06:00-23:00", "Fri": "06:00-23:00", "Sat": "06:00-23:00", "Sun": "06:00-23:00", "index_right": 211, "park_offical_id": "TOWHA_520" }, "geometry": { "type": "Point", "coordinates": [ -0.051120284, 51.520693762 ] } }
+]
+}

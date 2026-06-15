@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "BROML_103_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sainsburys", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "07:00-22:00", "Tue": "07:00-22:00", "Wed": "07:00-22:00", "Thu": "07:00-22:00", "Fri": "07:00-22:00", "Sat": "07:00-21:00", "Sun": "11:00-17:00", "index_right": 4, "park_offical_id": "BROML_103" }, "geometry": { "type": "Point", "coordinates": [ -0.021766126, 51.377126602 ] } },
+{ "type": "Feature", "properties": { "name": "West Wickham Leisure Centre", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "False", "men": "False", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 4, "park_offical_id": "BROML_103" }, "geometry": { "type": "Point", "coordinates": [ -0.013861656, 51.379530553 ] } },
+{ "type": "Feature", "properties": { "name": "Shell Filling Station  West Wickham", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 4, "park_offical_id": "BROML_103" }, "geometry": { "type": "Point", "coordinates": [ -0.022433996, 51.377081244 ] } }
+]
+}

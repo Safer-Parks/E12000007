@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "SUTTO_26_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Wallington Library", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 38, "park_offical_id": "SUTTO_26" }, "geometry": { "type": "Point", "coordinates": [ -0.150837312, 51.358017563 ] } },
+{ "type": "Feature", "properties": { "name": "Wallington Station", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 38, "park_offical_id": "SUTTO_26" }, "geometry": { "type": "Point", "coordinates": [ -0.150563121, 51.36022048 ] } },
+{ "type": "Feature", "properties": { "name": "Carshalton Beeches Station", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 38, "park_offical_id": "SUTTO_26" }, "geometry": { "type": "Point", "coordinates": [ -0.169794788, 51.35741124 ] } },
+{ "type": "Feature", "properties": { "name": "Carshalton Station", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "Unknown", "men": "Unknown", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 38, "park_offical_id": "SUTTO_26" }, "geometry": { "type": "Point", "coordinates": [ -0.166366115, 51.3684549 ] } },
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 38, "park_offical_id": "SUTTO_26" }, "geometry": { "type": "Point", "coordinates": [ -0.1602824, 51.3661622 ] } }
+]
+}

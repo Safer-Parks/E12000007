@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "MERTO_41_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Streatham Common Station", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "Unknown", "men": "Unknown", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 87, "park_offical_id": "MERTO_41" }, "geometry": { "type": "Point", "coordinates": [ -0.136151833, 51.41868917 ] } }
+]
+}

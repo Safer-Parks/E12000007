@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "LEWIS_598_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Beckenham Place Mansion", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 90, "park_offical_id": "LEWIS_598" }, "geometry": { "type": "Point", "coordinates": [ -0.019054413, 51.418713532 ] } },
+{ "type": "Feature", "properties": { "name": "Park toilets", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 90, "park_offical_id": "LEWIS_598" }, "geometry": { "type": "Point", "coordinates": [ -0.017737336, 51.419599898 ] } }
+]
+}

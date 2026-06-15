@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "HAVER_14_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Romford Train Station", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 12, "park_offical_id": "HAVER_14" }, "geometry": { "type": "Point", "coordinates": [ 0.183250919, 51.57483462 ] } },
+{ "type": "Feature", "properties": { "name": "BQ", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 12, "park_offical_id": "HAVER_14" }, "geometry": { "type": "Point", "coordinates": [ 0.190511942, 51.567153798 ] } },
+{ "type": "Feature", "properties": { "name": "South Street Romford", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 12, "park_offical_id": "HAVER_14" }, "geometry": { "type": "Point", "coordinates": [ 0.181617737, 51.577022864 ] } },
+{ "type": "Feature", "properties": { "name": "Tesco Extra Romford", "payment_info": "Cost unknown", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 12, "park_offical_id": "HAVER_14" }, "geometry": { "type": "Point", "coordinates": [ 0.1913119, 51.5657817 ] } }
+]
+}

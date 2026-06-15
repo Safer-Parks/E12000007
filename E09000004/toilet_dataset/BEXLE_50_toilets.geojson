@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "BEXLE_50_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sainsburys", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 98, "park_offical_id": "BEXLE_50" }, "geometry": { "type": "Point", "coordinates": [ 0.178881884, 51.449289229 ] } },
+{ "type": "Feature", "properties": { "name": "Waterside Gardens Crayford Way", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 98, "park_offical_id": "BEXLE_50" }, "geometry": { "type": "Point", "coordinates": [ 0.1795366, 51.4522755 ] } },
+{ "type": "Feature", "properties": { "name": "Crayford Library", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:30-17:30", "Tue": "Closed", "Wed": "09:30-19:00", "Thu": "Closed", "Fri": "09:30-17:30", "Sat": "09:30-17:00", "Sun": "Closed", "index_right": 98, "park_offical_id": "BEXLE_50" }, "geometry": { "type": "Point", "coordinates": [ 0.180118371, 51.449972644 ] } }
+]
+}

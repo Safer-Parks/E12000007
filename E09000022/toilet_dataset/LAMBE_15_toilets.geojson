@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "LAMBE_15_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ellas Cafe", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 25, "park_offical_id": "LAMBE_15" }, "geometry": { "type": "Point", "coordinates": [ -0.102015138, 51.430920728 ] } },
+{ "type": "Feature", "properties": { "name": "The Clockworks", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "10:00-12:00", "Tue": "10:00-12:00", "Wed": "10:00-16:30", "Thu": "10:00-16:30", "Fri": "10:00-16:30", "Sat": "Closed", "Sun": "Closed", "index_right": 25, "park_offical_id": "LAMBE_15" }, "geometry": { "type": "Point", "coordinates": [ -0.104327202, 51.432741766 ] } },
+{ "type": "Feature", "properties": { "name": "Library and Picture House", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 25, "park_offical_id": "LAMBE_15" }, "geometry": { "type": "Point", "coordinates": [ -0.103197992, 51.433176949 ] } },
+{ "type": "Feature", "properties": { "name": "Norwood Park public toilets", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 25, "park_offical_id": "LAMBE_15" }, "geometry": { "type": "Point", "coordinates": [ -0.094186702, 51.425841484 ] } },
+{ "type": "Feature", "properties": { "name": "Little Rock CafeS Y Yoruk", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 25, "park_offical_id": "LAMBE_15" }, "geometry": { "type": "Point", "coordinates": [ -0.100684762, 51.428328677 ] } }
+]
+}

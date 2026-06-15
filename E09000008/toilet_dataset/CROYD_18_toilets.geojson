@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "CROYD_18_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "South Norwood Country Park Park Ranger Hut", "payment_info": "Free", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 28, "park_offical_id": "CROYD_18" }, "geometry": { "type": "Point", "coordinates": [ -0.060349703, 51.39589554 ] } },
+{ "type": "Feature", "properties": { "name": "Norwood Junction Station", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "Unknown", "men": "Unknown", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 28, "park_offical_id": "CROYD_18" }, "geometry": { "type": "Point", "coordinates": [ -0.075216424, 51.397020224 ] } }
+]
+}

@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "SOUT6_84_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Cost unknown", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 177, "park_offical_id": "SOUT6_84" }, "geometry": { "type": "Point", "coordinates": [ -0.077789426, 51.484984128 ] } },
+{ "type": "Feature", "properties": { "name": "Burgess Parks Sports Centre", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 177, "park_offical_id": "SOUT6_84" }, "geometry": { "type": "Point", "coordinates": [ -0.075133463, 51.483789687 ] } },
+{ "type": "Feature", "properties": { "name": "Burgess Fishing Lakes", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 177, "park_offical_id": "SOUT6_84" }, "geometry": { "type": "Point", "coordinates": [ -0.077786744, 51.484975412 ] } },
+{ "type": "Feature", "properties": { "name": "Chumleigh Gardens", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 177, "park_offical_id": "SOUT6_84" }, "geometry": { "type": "Point", "coordinates": [ -0.084106028, 51.483627854 ] } },
+{ "type": "Feature", "properties": { "name": "Harris Street NHO", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "Closed", "Sun": "Closed", "index_right": 177, "park_offical_id": "SOUT6_84" }, "geometry": { "type": "Point", "coordinates": [ -0.086831152, 51.478399471 ] } }
+]
+}

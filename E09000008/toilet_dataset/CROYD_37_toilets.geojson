@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "CROYD_37_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tesco Thornton Heath", "payment_info": "Cost unknown", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "False", "Mon": "00:00-00:00", "Tue": "00:00-00:00", "Wed": "00:00-00:00", "Thu": "00:00-00:00", "Fri": "00:00-00:00", "Sat": "00:00-00:00", "Sun": "00:00-00:00", "index_right": 49, "park_offical_id": "CROYD_37" }, "geometry": { "type": "Point", "coordinates": [ -0.099542141, 51.399091862 ] } },
+{ "type": "Feature", "properties": { "name": "Thornton Heath Station", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "Unknown", "men": "Unknown", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 49, "park_offical_id": "CROYD_37" }, "geometry": { "type": "Point", "coordinates": [ -0.101001212, 51.3992396 ] } },
+{ "type": "Feature", "properties": { "name": "Selhurst Park", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 49, "park_offical_id": "CROYD_37" }, "geometry": { "type": "Point", "coordinates": [ -0.085482001, 51.398325046 ] } }
+]
+}

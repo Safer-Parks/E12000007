@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "HAMFU_85_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Westworks", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "07:00-19:00", "Tue": "07:00-19:00", "Wed": "07:00-19:00", "Thu": "07:00-19:00", "Fri": "07:00-19:00", "Sat": "Closed", "Sun": "Closed", "index_right": 93, "park_offical_id": "HAMFU_85" }, "geometry": { "type": "Point", "coordinates": [ -0.227140188, 51.513964024 ] } },
+{ "type": "Feature", "properties": { "name": "The Pavillion", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "12:00-23:00", "Tue": "12:00-23:00", "Wed": "12:00-23:00", "Thu": "12:00-23:00", "Fri": "12:00-23:00", "Sat": "12:00-23:00", "Sun": "12:00-22:00", "index_right": 93, "park_offical_id": "HAMFU_85" }, "geometry": { "type": "Point", "coordinates": [ -0.227660537, 51.518875056 ] } }
+]
+}

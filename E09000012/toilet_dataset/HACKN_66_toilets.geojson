@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "HACKN_66_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "VeloPark", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 84, "park_offical_id": "HACKN_66" }, "geometry": { "type": "Point", "coordinates": [ -0.015653372, 51.549964507 ] } },
+{ "type": "Feature", "properties": { "name": "Score Centre", "payment_info": "Cost unknown", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 84, "park_offical_id": "HACKN_66" }, "geometry": { "type": "Point", "coordinates": [ -0.01396358, 51.55992735 ] } },
+{ "type": "Feature", "properties": { "name": "Homerton Library", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "10:00-20:00", "Tue": "10:00-20:00", "Wed": "13:00-18:00", "Thu": "10:00-20:00", "Fri": "10:00-20:00", "Sat": "10:00-17:00", "Sun": "Closed", "index_right": 84, "park_offical_id": "HACKN_66" }, "geometry": { "type": "Point", "coordinates": [ -0.041925609, 51.548888683 ] } },
+{ "type": "Feature", "properties": { "name": "Coronation Gardens Park", "payment_info": "Cost unknown", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 84, "park_offical_id": "HACKN_66" }, "geometry": { "type": "Point", "coordinates": [ -0.011989474, 51.559330374 ] } },
+{ "type": "Feature", "properties": { "name": "Hackney Marshes Pavilion", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 84, "park_offical_id": "HACKN_66" }, "geometry": { "type": "Point", "coordinates": [ -0.036628246, 51.557996323 ] } }
+]
+}

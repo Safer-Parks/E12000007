@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "EALIN_77_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "McDonalds", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 167, "park_offical_id": "EALIN_77" }, "geometry": { "type": "Point", "coordinates": [ -0.270398855, 51.506909427 ] } },
+{ "type": "Feature", "properties": { "name": "Acton Town station toilets", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "04:30-01:30", "Tue": "04:30-01:30", "Wed": "04:30-01:30", "Thu": "04:30-01:30", "Fri": "04:30-00:00", "Sat": "00:00-00:00", "Sun": "00:00-00:30", "index_right": 167, "park_offical_id": "EALIN_77" }, "geometry": { "type": "Point", "coordinates": [ -0.2803045, 51.502968 ] } },
+{ "type": "Feature", "properties": { "name": "Source Chiswick", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 167, "park_offical_id": "EALIN_77" }, "geometry": { "type": "Point", "coordinates": [ -0.27570641, 51.495687691 ] } }
+]
+}

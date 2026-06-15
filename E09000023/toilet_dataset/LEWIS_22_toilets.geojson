@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "LEWIS_22_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sydenham Wells Park Toilet", "payment_info": "Cost unknown", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 30, "park_offical_id": "LEWIS_22" }, "geometry": { "type": "Point", "coordinates": [ -0.067698956, 51.430333767 ] } },
+{ "type": "Feature", "properties": { "name": "Crystal Palace Sports Centre and Pools", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 30, "park_offical_id": "LEWIS_22" }, "geometry": { "type": "Point", "coordinates": [ -0.067527294, 51.420835984 ] } }
+]
+}

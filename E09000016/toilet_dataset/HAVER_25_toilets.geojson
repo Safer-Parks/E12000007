@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "HAVER_25_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Lidl", "payment_info": "Cost unknown", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 24, "park_offical_id": "HAVER_25" }, "geometry": { "type": "Point", "coordinates": [ 0.215359926, 51.563405659 ] } },
+{ "type": "Feature", "properties": { "name": "Eastbrookend Cemetery", "payment_info": "No charge", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 24, "park_offical_id": "HAVER_25" }, "geometry": { "type": "Point", "coordinates": [ 0.181574821, 51.555248054 ] } },
+{ "type": "Feature", "properties": { "name": "Eastbrookend Country Park", "payment_info": "No Charge", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 24, "park_offical_id": "HAVER_25" }, "geometry": { "type": "Point", "coordinates": [ 0.181142855, 51.55182595 ] } },
+{ "type": "Feature", "properties": { "name": "Appleton Way", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 24, "park_offical_id": "HAVER_25" }, "geometry": { "type": "Point", "coordinates": [ 0.220649242, 51.560804456 ] } },
+{ "type": "Feature", "properties": { "name": "Station Parade Elm Park", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 24, "park_offical_id": "HAVER_25" }, "geometry": { "type": "Point", "coordinates": [ 0.199438334, 51.548730256 ] } }
+]
+}

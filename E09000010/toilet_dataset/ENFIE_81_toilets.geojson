@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "ENFIE_81_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bus Station Toilets", "payment_info": "Free", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "False", "Mon": "09:00-18:00", "Tue": "09:00-18:00", "Wed": "09:00-18:00", "Thu": "09:00-18:00", "Fri": "09:00-18:00", "Sat": "09:00-18:00", "Sun": "09:00-18:00", "index_right": 109, "park_offical_id": "ENFIE_81" }, "geometry": { "type": "Point", "coordinates": [ -0.033795834, 51.681609711 ] } },
+{ "type": "Feature", "properties": { "name": "Pavilions Sopping centre", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 109, "park_offical_id": "ENFIE_81" }, "geometry": { "type": "Point", "coordinates": [ -0.033195019, 51.684576499 ] } }
+]
+}

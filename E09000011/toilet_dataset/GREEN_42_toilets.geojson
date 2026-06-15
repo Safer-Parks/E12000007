@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "GREEN_42_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Queens Gardens", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:30-15:30", "Tue": "09:30-15:30", "Wed": "09:30-15:30", "Thu": "09:30-15:30", "Fri": "09:30-15:30", "Sat": "09:30-15:30", "Sun": "09:30-15:30", "index_right": 62, "park_offical_id": "GREEN_42" }, "geometry": { "type": "Point", "coordinates": [ 0.057799, 51.430281 ] } }
+]
+}

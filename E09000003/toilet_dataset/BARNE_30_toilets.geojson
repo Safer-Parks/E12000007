@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "BARNE_30_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cockfosters Underground Station", "payment_info": "true", "accessible": "False", "radar": "Unknown", "women": "True", "men": "Unknown", "baby_change": "Unknown", "Mon": "06:00-24:00", "Tue": "06:00-24:00", "Wed": "06:00-24:00", "Thu": "06:00-24:00", "Fri": "06:00-24:00", "Sat": "06:00-24:00", "Sun": "Closed", "index_right": 79, "park_offical_id": "BARNE_30" }, "geometry": { "type": "Point", "coordinates": [ -0.149596, 51.65155 ] } },
+{ "type": "Feature", "properties": { "name": "Cockfosters Underground Station", "payment_info": "true", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "True", "baby_change": "Unknown", "Mon": "06:00-24:00", "Tue": "06:00-24:00", "Wed": "06:00-24:00", "Thu": "06:00-24:00", "Fri": "06:00-24:00", "Sat": "06:00-24:00", "Sun": "Closed", "index_right": 79, "park_offical_id": "BARNE_30" }, "geometry": { "type": "Point", "coordinates": [ -0.1497064, 51.6518094 ] } },
+{ "type": "Feature", "properties": { "name": "Gas Station Toilet", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 79, "park_offical_id": "BARNE_30" }, "geometry": { "type": "Point", "coordinates": [ -0.149978077, 51.652113271 ] } }
+]
+}

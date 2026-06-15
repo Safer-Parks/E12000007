@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "SOUT6_15_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Peckham Rye Playground", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 35, "park_offical_id": "SOUT6_15" }, "geometry": { "type": "Point", "coordinates": [ -0.056796145, 51.457645416 ] } },
+{ "type": "Feature", "properties": { "name": "Peckham Rye Park", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "07:30-16:30", "Tue": "07:30-16:30", "Wed": "07:30-16:30", "Thu": "07:30-16:30", "Fri": "07:30-16:30", "Sat": "07:30-16:30", "Sun": "07:30-16:30", "index_right": 35, "park_offical_id": "SOUT6_15" }, "geometry": { "type": "Point", "coordinates": [ -0.0618862, 51.45839014 ] } },
+{ "type": "Feature", "properties": { "name": "Camberwell Old Cemetery ", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "False", "Mon": "08:30-17:00", "Tue": "08:30-17:00", "Wed": "08:30-17:00", "Thu": "08:30-17:00", "Fri": "08:30-17:00", "Sat": "08:30-17:00", "Sun": "10:00-17:00", "index_right": 35, "park_offical_id": "SOUT6_15" }, "geometry": { "type": "Point", "coordinates": [ -0.060159266, 51.450488326 ] } },
+{ "type": "Feature", "properties": { "name": "Peckham Rye Park New Playroom", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 35, "park_offical_id": "SOUT6_15" }, "geometry": { "type": "Point", "coordinates": [ -0.056318343, 51.457772108 ] } }
+]
+}

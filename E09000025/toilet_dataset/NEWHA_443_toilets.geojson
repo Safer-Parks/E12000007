@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "NEWHA_443_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Beckton Community Centre", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "Closed", "Sun": "Closed", "index_right": 158, "park_offical_id": "NEWHA_443" }, "geometry": { "type": "Point", "coordinates": [ 0.063085556, 51.510146398 ] } }
+]
+}

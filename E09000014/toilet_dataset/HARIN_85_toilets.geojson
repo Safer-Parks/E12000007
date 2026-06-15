@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "HARIN_85_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Tottenham Hale Railway Station", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "06:00-00:00", "Tue": "06:00-00:00", "Wed": "06:00-00:00", "Thu": "06:00-00:00", "Fri": "06:00-00:00", "Sat": "06:00-00:00", "Sun": "06:00-00:00", "index_right": 133, "park_offical_id": "HARIN_85" }, "geometry": { "type": "Point", "coordinates": [ -0.059922399, 51.588316392 ] } },
+{ "type": "Feature", "properties": { "name": "Walthamstow Wetlands Engine House visitor centre", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 133, "park_offical_id": "HARIN_85" }, "geometry": { "type": "Point", "coordinates": [ -0.054228902, 51.585463006 ] } }
+]
+}

@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "TOWHA_263_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "English National Ballet", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "08:30-17:00", "Tue": "08:30-17:00", "Wed": "08:30-17:00", "Thu": "08:30-17:00", "Fri": "08:30-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 98, "park_offical_id": "TOWHA_263" }, "geometry": { "type": "Point", "coordinates": [ 0.006295145, 51.513072661 ] } },
+{ "type": "Feature", "properties": { "name": "Dock Coffee", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "07:00-16:30", "Tue": "07:00-16:30", "Wed": "07:00-16:30", "Thu": "07:00-16:30", "Fri": "07:00-16:30", "Sat": "08:00-16:30", "Sun": "08:00-16:30", "index_right": 98, "park_offical_id": "TOWHA_263" }, "geometry": { "type": "Point", "coordinates": [ -0.007775723, 51.508548811 ] } },
+{ "type": "Feature", "properties": { "name": "Westland Coffee at Republic", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "07:00-19:00", "Tue": "07:00-19:00", "Wed": "07:00-19:00", "Thu": "07:00-19:00", "Fri": "07:00-19:00", "Sat": "08:30-16:00", "Sun": "Closed", "index_right": 98, "park_offical_id": "TOWHA_263" }, "geometry": { "type": "Point", "coordinates": [ -0.004804093, 51.509987792 ] } },
+{ "type": "Feature", "properties": { "name": "Trinity Buoy Wharf Public Toilets", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "07:00-19:00", "Tue": "07:00-19:00", "Wed": "07:00-19:00", "Thu": "07:00-19:00", "Fri": "07:00-19:00", "Sat": "07:00-19:00", "Sun": "07:00-19:00", "index_right": 98, "park_offical_id": "TOWHA_263" }, "geometry": { "type": "Point", "coordinates": [ 0.009068549, 51.508253725 ] } }
+]
+}

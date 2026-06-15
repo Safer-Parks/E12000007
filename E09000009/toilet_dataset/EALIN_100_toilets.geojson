@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "EALIN_100_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "BQ Chiswick", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 3, "park_offical_id": "EALIN_100" }, "geometry": { "type": "Point", "coordinates": [ -0.283542752, 51.493024671 ] } },
+{ "type": "Feature", "properties": { "name": "Ealing Park Health Centre", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "Closed", "Sun": "Closed", "index_right": 3, "park_offical_id": "EALIN_100" }, "geometry": { "type": "Point", "coordinates": [ -0.305175854, 51.49702255 ] } },
+{ "type": "Feature", "properties": { "name": "Topps Tiles  Crown Decorating Centre", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 3, "park_offical_id": "EALIN_100" }, "geometry": { "type": "Point", "coordinates": [ -0.303538084, 51.492244769 ] } },
+{ "type": "Feature", "properties": { "name": "London Museum of Water and Steam", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "Unknown", "men": "Unknown", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 3, "park_offical_id": "EALIN_100" }, "geometry": { "type": "Point", "coordinates": [ -0.290193558, 51.488889039 ] } }
+]
+}

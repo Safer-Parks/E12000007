@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ISLIN_92_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Star of Kings pub", "payment_info": "You may need to buy a pint", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 167, "park_offical_id": "ISLIN_92" }, "geometry": { "type": "Point", "coordinates": [ -0.121986866, 51.536349351 ] } }
+]
+}

@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "CROYD_58_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 72, "park_offical_id": "CROYD_58" }, "geometry": { "type": "Point", "coordinates": [ -0.053108, 51.3367969 ] } },
+{ "type": "Feature", "properties": { "name": "Selsdon Hall  Jubilee Coffee Shop", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "08:30-17:00", "Tue": "08:30-17:00", "Wed": "08:30-17:00", "Thu": "08:30-17:00", "Fri": "08:30-17:00", "Sat": "09:00-16:00", "Sun": "Closed", "index_right": 72, "park_offical_id": "CROYD_58" }, "geometry": { "type": "Point", "coordinates": [ -0.062742233, 51.342415248 ] } },
+{ "type": "Feature", "properties": { "name": "Sainsburys supermarket", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 72, "park_offical_id": "CROYD_58" }, "geometry": { "type": "Point", "coordinates": [ -0.062962174, 51.342279534 ] } },
+{ "type": "Feature", "properties": { "name": "Aldi", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 72, "park_offical_id": "CROYD_58" }, "geometry": { "type": "Point", "coordinates": [ -0.058895946, 51.344822852 ] } }
+]
+}

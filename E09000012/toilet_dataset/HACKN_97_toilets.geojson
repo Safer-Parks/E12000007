@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "HACKN_97_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Springfield Park Cafe", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "10:00-16:00", "Tue": "10:00-16:00", "Wed": "10:00-16:00", "Thu": "10:00-16:00", "Fri": "10:00-16:00", "Sat": "10:00-16:00", "Sun": "10:00-16:00", "index_right": 104, "park_offical_id": "HACKN_97" }, "geometry": { "type": "Point", "coordinates": [ -0.059815943, 51.569094439 ] } },
+{ "type": "Feature", "properties": { "name": "Mascara Bar", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "11:00-02:00", "Tue": "11:00-02:00", "Wed": "11:00-02:00", "Thu": "11:00-03:00", "Fri": "11:00-03:00", "Sat": "11:00-03:00", "Sun": "11:00-03:00", "index_right": 104, "park_offical_id": "HACKN_97" }, "geometry": { "type": "Point", "coordinates": [ -0.072620809, 51.566788662 ] } },
+{ "type": "Feature", "properties": { "name": "Stamford Hill", "payment_info": "Free", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "00:00-00:00", "Tue": "00:00-00:00", "Wed": "00:00-00:00", "Thu": "00:00-00:00", "Fri": "00:00-00:00", "Sat": "00:00-00:00", "Sun": "00:00-00:00", "index_right": 104, "park_offical_id": "HACKN_97" }, "geometry": { "type": "Point", "coordinates": [ -0.072757648, 51.573765333 ] } }
+]
+}

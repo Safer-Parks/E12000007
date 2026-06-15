@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "TOWHA_339_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 133, "park_offical_id": "TOWHA_339" }, "geometry": { "type": "Point", "coordinates": [ -0.0200839, 51.5446098 ] } },
+{ "type": "Feature", "properties": { "name": "Fabwick", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "12:00-00:00", "Tue": "12:00-00:00", "Wed": "12:00-00:00", "Thu": "12:00-01:00", "Fri": "12:00-01:00", "Sat": "12:00-01:00", "Sun": "12:00-22:00", "index_right": 133, "park_offical_id": "TOWHA_339" }, "geometry": { "type": "Point", "coordinates": [ -0.023359254, 51.542662138 ] } }
+]
+}

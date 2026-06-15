@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "BREN5_111_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "The Exchanger at Ernest Harriss House", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "08:00-20:00", "Tue": "08:00-20:00", "Wed": "08:00-20:00", "Thu": "08:00-20:00", "Fri": "08:00-20:00", "Sat": "08:00-16:00", "Sun": "Closed", "index_right": 5, "park_offical_id": "BREN5_111" }, "geometry": { "type": "Point", "coordinates": [ -0.196681023, 51.525585629 ] } },
+{ "type": "Feature", "properties": { "name": "Community Toilet Scheme McDonalds", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 5, "park_offical_id": "BREN5_111" }, "geometry": { "type": "Point", "coordinates": [ -0.195506215, 51.539587422 ] } },
+{ "type": "Feature", "properties": { "name": "The Exchange Ernest Harriss House ", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "08:00-20:00", "Tue": "08:00-20:00", "Wed": "08:00-20:00", "Thu": "08:00-20:00", "Fri": "08:00-20:00", "Sat": "08:00-16:00", "Sun": "Closed", "index_right": 5, "park_offical_id": "BREN5_111" }, "geometry": { "type": "Point", "coordinates": [ -0.196670294, 51.525568276 ] } },
+{ "type": "Feature", "properties": { "name": "Paddington Recreation Ground", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "False", "Mon": "07:00-20:50", "Tue": "07:00-20:50", "Wed": "07:00-20:50", "Thu": "07:00-20:50", "Fri": "07:00-20:50", "Sat": "08:00-19:50", "Sun": "08:00-19:50", "index_right": 5, "park_offical_id": "BREN5_111" }, "geometry": { "type": "Point", "coordinates": [ -0.190420747, 51.530843212 ] } }
+]
+}

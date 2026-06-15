@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "HOUNS_103_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Boston Manor Station Toilets", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "05:00-19:00", "Tue": "05:00-19:00", "Wed": "05:00-19:00", "Thu": "05:00-19:00", "Fri": "05:00-19:00", "Sat": "05:00-19:00", "Sun": "05:00-19:00", "index_right": 4, "park_offical_id": "HOUNS_103" }, "geometry": { "type": "Point", "coordinates": [ -0.324815512, 51.495632505 ] } },
+{ "type": "Feature", "properties": { "name": "The Little Art Room", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "False", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 4, "park_offical_id": "HOUNS_103" }, "geometry": { "type": "Point", "coordinates": [ -0.337384343, 51.506670694 ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "BEXLE_32_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Sidcup Cemetery", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-16:00", "Tue": "09:00-16:00", "Wed": "09:00-16:00", "Thu": "09:00-16:00", "Fri": "09:00-16:00", "Sat": "09:00-16:00", "Sun": "09:00-16:00", "index_right": 78, "park_offical_id": "BEXLE_32" }, "geometry": { "type": "Point", "coordinates": [ 0.121643543, 51.435624508 ] } },
+{ "type": "Feature", "properties": { "name": "Sidcup Railway Station", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 78, "park_offical_id": "BEXLE_32" }, "geometry": { "type": "Point", "coordinates": [ 0.103731751, 51.434087849 ] } }
+]
+}

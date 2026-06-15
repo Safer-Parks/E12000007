@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "HAMFU_21_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Packhorse and Talbot", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 58, "park_offical_id": "HAMFU_21" }, "geometry": { "type": "Point", "coordinates": [ -0.255687475, 51.492495619 ] } },
+{ "type": "Feature", "properties": { "name": "The Roebuck", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 58, "park_offical_id": "HAMFU_21" }, "geometry": { "type": "Point", "coordinates": [ -0.252654433, 51.492907738 ] } }
+]
+}

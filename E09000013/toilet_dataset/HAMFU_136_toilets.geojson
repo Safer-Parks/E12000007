@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "HAMFU_136_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Westfield London", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 29, "park_offical_id": "HAMFU_136" }, "geometry": { "type": "Point", "coordinates": [ -0.221137404, 51.507517107 ] } },
+{ "type": "Feature", "properties": { "name": "Kensington Olympia Station", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "Unknown", "men": "Unknown", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 29, "park_offical_id": "HAMFU_136" }, "geometry": { "type": "Point", "coordinates": [ -0.210242271, 51.497808285 ] } },
+{ "type": "Feature", "properties": { "name": "Shepherds Bush Central Line", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 29, "park_offical_id": "HAMFU_136" }, "geometry": { "type": "Point", "coordinates": [ -0.218444467, 51.504909369 ] } },
+{ "type": "Feature", "properties": { "name": "W12 Shopping Precinct", "payment_info": "Cost unknown", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 29, "park_offical_id": "HAMFU_136" }, "geometry": { "type": "Point", "coordinates": [ -0.219461919, 51.50336224 ] } },
+{ "type": "Feature", "properties": { "name": "Tesco Hammersmith", "payment_info": "Cost unknown", "accessible": "True", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 29, "park_offical_id": "HAMFU_136" }, "geometry": { "type": "Point", "coordinates": [ -0.22390008, 51.497512731 ] } }
+]
+}

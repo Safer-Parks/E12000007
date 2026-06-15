@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "ENFIE_57_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Forty Hall toilets", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 82, "park_offical_id": "ENFIE_57" }, "geometry": { "type": "Point", "coordinates": [ -0.06835954, 51.66991804 ] } },
+{ "type": "Feature", "properties": { "name": "Whitewebbs toilets", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 82, "park_offical_id": "ENFIE_57" }, "geometry": { "type": "Point", "coordinates": [ -0.082179996, 51.672632643 ] } }
+]
+}

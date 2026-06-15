@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "TOWHA_408_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bancroft Arms", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "12:00-23:00", "Tue": "12:00-23:00", "Wed": "12:00-23:00", "Thu": "12:00-23:00", "Fri": "12:00-23:00", "Sat": "12:00-23:00", "Sun": "12:00-23:00", "index_right": 160, "park_offical_id": "TOWHA_408" }, "geometry": { "type": "Point", "coordinates": [ -0.04006952, 51.522790271 ] } },
+{ "type": "Feature", "properties": { "name": "JD Wetherspoons  The Half Moon", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "08:00-00:00", "Tue": "08:00-00:00", "Wed": "08:00-00:00", "Thu": "08:00-00:00", "Fri": "08:00-00:00", "Sat": "08:00-00:00", "Sun": "08:00-00:00", "index_right": 160, "park_offical_id": "TOWHA_408" }, "geometry": { "type": "Point", "coordinates": [ -0.045321286, 51.522173 ] } },
+{ "type": "Feature", "properties": { "name": "Nandos", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "11:00-22:00", "Tue": "11:00-22:00", "Wed": "11:00-22:00", "Thu": "11:00-22:00", "Fri": "11:00-22:00", "Sat": "11:00-22:00", "Sun": "11:00-22:00", "index_right": 160, "park_offical_id": "TOWHA_408" }, "geometry": { "type": "Point", "coordinates": [ -0.035622418, 51.524495618 ] } },
+{ "type": "Feature", "properties": { "name": "Starbucks", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "06:30-21:00", "Tue": "06:30-21:00", "Wed": "06:30-21:00", "Thu": "06:30-21:00", "Fri": "06:30-21:00", "Sat": "06:30-21:00", "Sun": "07:00-21:00", "index_right": 160, "park_offical_id": "TOWHA_408" }, "geometry": { "type": "Point", "coordinates": [ -0.03523618, 51.525076406 ] } },
+{ "type": "Feature", "properties": { "name": "Roosters Piri Piri", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "11:00-00:00", "Tue": "11:00-00:00", "Wed": "11:00-00:00", "Thu": "11:00-00:00", "Fri": "11:00-00:00", "Sat": "11:00-00:00", "Sun": "11:00-00:00", "index_right": 160, "park_offical_id": "TOWHA_408" }, "geometry": { "type": "Point", "coordinates": [ -0.035150349, 51.524626304 ] } }
+]
+}

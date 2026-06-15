@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "SOUT6_110_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Market", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 12, "park_offical_id": "SOUT6_110" }, "geometry": { "type": "Point", "coordinates": [ -0.068130791, 51.469787201 ] } },
+{ "type": "Feature", "properties": { "name": "Dulwich Leisure Centre", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "06:30-22:00", "Tue": "06:30-22:00", "Wed": "06:30-22:00", "Thu": "06:30-22:00", "Fri": "06:30-22:00", "Sat": "07:00-18:00", "Sun": "08:00-22:00", "index_right": 12, "park_offical_id": "SOUT6_110" }, "geometry": { "type": "Point", "coordinates": [ -0.071673989, 51.460582219 ] } },
+{ "type": "Feature", "properties": { "name": "Peckham Rye Park", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "07:30-16:30", "Tue": "07:30-16:30", "Wed": "07:30-16:30", "Thu": "07:30-16:30", "Fri": "07:30-16:30", "Sat": "07:30-16:30", "Sun": "07:30-16:30", "index_right": 12, "park_offical_id": "SOUT6_110" }, "geometry": { "type": "Point", "coordinates": [ -0.0618862, 51.45839014 ] } },
+{ "type": "Feature", "properties": { "name": "Nunhead Library", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "14:00-19:00", "Tue": "14:00-19:00", "Wed": "10:00-15:00", "Thu": "14:00-19:00", "Fri": "10:00-15:00", "Sat": "10:00-17:00", "Sun": "Closed", "index_right": 12, "park_offical_id": "SOUT6_110" }, "geometry": { "type": "Point", "coordinates": [ -0.059595572, 51.4656771 ] } },
+{ "type": "Feature", "properties": { "name": "Atwell Road", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "00:00-00:00", "Tue": "00:00-00:00", "Wed": "00:00-00:00", "Thu": "00:00-00:00", "Fri": "00:00-00:00", "Sat": "00:00-00:00", "Sun": "00:00-00:00", "index_right": 12, "park_offical_id": "SOUT6_110" }, "geometry": { "type": "Point", "coordinates": [ -0.066871, 51.4682771 ] } }
+]
+}

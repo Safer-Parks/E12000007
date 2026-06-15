@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "NEWHA_419_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "West ham park", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 143, "park_offical_id": "NEWHA_419" }, "geometry": { "type": "Point", "coordinates": [ 0.021233041, 51.538717114 ] } }
+]
+}

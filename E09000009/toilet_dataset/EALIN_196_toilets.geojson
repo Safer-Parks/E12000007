@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "EALIN_196_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Brentford Library", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 71, "park_offical_id": "EALIN_196" }, "geometry": { "type": "Point", "coordinates": [ -0.307522773, 51.486562184 ] } },
+{ "type": "Feature", "properties": { "name": "Boston Manor Station Toilets", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "05:00-19:00", "Tue": "05:00-19:00", "Wed": "05:00-19:00", "Thu": "05:00-19:00", "Fri": "05:00-19:00", "Sat": "05:00-19:00", "Sun": "05:00-19:00", "index_right": 71, "park_offical_id": "EALIN_196" }, "geometry": { "type": "Point", "coordinates": [ -0.324815512, 51.495632505 ] } },
+{ "type": "Feature", "properties": { "name": "Brentford Station", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 71, "park_offical_id": "EALIN_196" }, "geometry": { "type": "Point", "coordinates": [ -0.309608136, 51.487536345 ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "HAMFU_70_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Waitrose", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 88, "park_offical_id": "HAMFU_70" }, "geometry": { "type": "Point", "coordinates": [ -0.199298859, 51.480183842 ] } },
+{ "type": "Feature", "properties": { "name": "Fulham Broadway", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 88, "park_offical_id": "HAMFU_70" }, "geometry": { "type": "Point", "coordinates": [ -0.195227265, 51.480549361 ] } }
+]
+}

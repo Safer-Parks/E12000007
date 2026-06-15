@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "CAMDE_7_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Community Toilet Scheme Belsize Community Library", "payment_info": "Cost unknown", "accessible": "True", "radar": "False", "women": "Unknown", "men": "Unknown", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 107, "park_offical_id": "CAMDE_7" }, "geometry": { "type": "Point", "coordinates": [ -0.162284374, 51.547887945 ] } },
+{ "type": "Feature", "properties": { "name": "Community Toilet Scheme Burgh House  Hampstead Museum", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 107, "park_offical_id": "CAMDE_7" }, "geometry": { "type": "Point", "coordinates": [ -0.175110698, 51.55819143 ] } },
+{ "type": "Feature", "properties": { "name": "King William III PUB", "payment_info": "unknown ", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 107, "park_offical_id": "CAMDE_7" }, "geometry": { "type": "Point", "coordinates": [ -0.176773667, 51.555534895 ] } },
+{ "type": "Feature", "properties": { "name": "Royal Free Hospital", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 107, "park_offical_id": "CAMDE_7" }, "geometry": { "type": "Point", "coordinates": [ -0.165658593, 51.553536972 ] } },
+{ "type": "Feature", "properties": { "name": "South End Green Public toilets ", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 107, "park_offical_id": "CAMDE_7" }, "geometry": { "type": "Point", "coordinates": [ -0.1650324, 51.5543139 ] } }
+]
+}

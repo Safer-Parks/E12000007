@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "HOUNS_75_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Bedfont Library", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 100, "park_offical_id": "HOUNS_75" }, "geometry": { "type": "Point", "coordinates": [ -0.434582233, 51.451914271 ] } },
+{ "type": "Feature", "properties": { "name": "Southville Community Centre", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 100, "park_offical_id": "HOUNS_75" }, "geometry": { "type": "Point", "coordinates": [ -0.425362944, 51.450365692 ] } }
+]
+}

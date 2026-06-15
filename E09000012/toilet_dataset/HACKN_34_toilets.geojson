@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "HACKN_34_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Public Toilet Rear of Hackney Empire", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 54, "park_offical_id": "HACKN_34" }, "geometry": { "type": "Point", "coordinates": [ -0.056101084, 51.545471007 ] } },
+{ "type": "Feature", "properties": { "name": "Tesco Hackney", "payment_info": "Staff locks the toilet and tell public that it is broken", "accessible": "False", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "00:00-00:00", "Tue": "00:00-00:00", "Wed": "00:00-00:00", "Thu": "00:00-00:00", "Fri": "00:00-00:00", "Sat": "00:00-00:00", "Sun": "00:00-00:00", "index_right": 54, "park_offical_id": "HACKN_34" }, "geometry": { "type": "Point", "coordinates": [ -0.05263567, 51.54690217 ] } },
+{ "type": "Feature", "properties": { "name": "Victoria Park West VA Playground", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "08:00-17:00", "Tue": "08:00-17:00", "Wed": "08:00-17:00", "Thu": "08:00-17:00", "Fri": "08:00-17:00", "Sat": "08:00-17:00", "Sun": "08:00-17:00", "index_right": 54, "park_offical_id": "HACKN_34" }, "geometry": { "type": "Point", "coordinates": [ -0.043647587, 51.535789517 ] } }
+]
+}

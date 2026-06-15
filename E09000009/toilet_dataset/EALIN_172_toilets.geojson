@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "EALIN_172_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Chaudhrys TKC", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 58, "park_offical_id": "EALIN_172" }, "geometry": { "type": "Point", "coordinates": [ -0.383427143, 51.512074447 ] } },
+{ "type": "Feature", "properties": { "name": "McDonalds", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 58, "park_offical_id": "EALIN_172" }, "geometry": { "type": "Point", "coordinates": [ -0.384076238, 51.512503448 ] } }
+]
+}

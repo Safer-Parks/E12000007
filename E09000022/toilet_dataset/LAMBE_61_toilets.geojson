@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "LAMBE_61_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Streatham Station Greater London", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "Unknown", "men": "Unknown", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 180, "park_offical_id": "LAMBE_61" }, "geometry": { "type": "Point", "coordinates": [ -0.131546583, 51.42581015 ] } },
+{ "type": "Feature", "properties": { "name": "Tesco Extra", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "00:00-00:00", "Tue": "00:00-00:00", "Wed": "00:00-00:00", "Thu": "00:00-00:00", "Fri": "00:00-00:00", "Sat": "00:00-00:00", "Sun": "00:00-00:00", "index_right": 180, "park_offical_id": "LAMBE_61" }, "geometry": { "type": "Point", "coordinates": [ -0.131428242, 51.425116001 ] } },
+{ "type": "Feature", "properties": { "name": "Streatham Common Station", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "Unknown", "men": "Unknown", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 180, "park_offical_id": "LAMBE_61" }, "geometry": { "type": "Point", "coordinates": [ -0.136151833, 51.41868917 ] } },
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 180, "park_offical_id": "LAMBE_61" }, "geometry": { "type": "Point", "coordinates": [ -0.1195403, 51.4219664 ] } }
+]
+}

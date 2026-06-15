@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "BREN5_51_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ikea", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 56, "park_offical_id": "BREN5_51" }, "geometry": { "type": "Point", "coordinates": [ -0.259895438, 51.553927579 ] } },
+{ "type": "Feature", "properties": { "name": "Bridge Park Community Leisure Centre", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 56, "park_offical_id": "BREN5_51" }, "geometry": { "type": "Point", "coordinates": [ -0.271525383, 51.54333252 ] } }
+]
+}

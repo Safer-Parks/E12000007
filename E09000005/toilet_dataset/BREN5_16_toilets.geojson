@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "BREN5_16_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kilburn Library ", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 17, "park_offical_id": "BREN5_16" }, "geometry": { "type": "Point", "coordinates": [ -0.205414295, 51.535108106 ] } },
+{ "type": "Feature", "properties": { "name": "Queens Park Housing Service Centre", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "Closed", "index_right": 17, "park_offical_id": "BREN5_16" }, "geometry": { "type": "Point", "coordinates": [ -0.206519365, 51.528740659 ] } },
+{ "type": "Feature", "properties": { "name": "Queens Park Lodge", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 17, "park_offical_id": "BREN5_16" }, "geometry": { "type": "Point", "coordinates": [ -0.2111187, 51.53421238 ] } }
+]
+}

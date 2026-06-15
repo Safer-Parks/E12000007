@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "BROML_14_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Filling Station", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 20, "park_offical_id": "BROML_14" }, "geometry": { "type": "Point", "coordinates": [ 0.084500313, 51.358446801 ] } },
+{ "type": "Feature", "properties": { "name": "The Royal Oak Public House", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 20, "park_offical_id": "BROML_14" }, "geometry": { "type": "Point", "coordinates": [ 0.088909864, 51.350972808 ] } },
+{ "type": "Feature", "properties": { "name": "Crescent Cafe", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 20, "park_offical_id": "BROML_14" }, "geometry": { "type": "Point", "coordinates": [ 0.087692142, 51.360352792 ] } },
+{ "type": "Feature", "properties": { "name": "Belmondo Coffee", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 20, "park_offical_id": "BROML_14" }, "geometry": { "type": "Point", "coordinates": [ 0.090068579, 51.35582384 ] } }
+]
+}

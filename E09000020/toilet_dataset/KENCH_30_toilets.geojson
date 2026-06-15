@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "KENCH_30_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Talbot Road", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "08:00-18:00", "Tue": "08:00-18:00", "Wed": "08:00-18:00", "Thu": "08:00-18:00", "Fri": "08:00-18:00", "Sat": "08:00-18:00", "Sun": "Closed", "index_right": 80, "park_offical_id": "KENCH_30" }, "geometry": { "type": "Point", "coordinates": [ -0.2047463, 51.5158995 ] } },
+{ "type": "Feature", "properties": { "name": "The Castle pub", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "12:00-23:00", "Tue": "12:00-23:00", "Wed": "12:00-23:00", "Thu": "12:00-23:00", "Fri": "12:00-23:00", "Sat": "12:00-23:00", "Sun": "12:00-22:00", "index_right": 80, "park_offical_id": "KENCH_30" }, "geometry": { "type": "Point", "coordinates": [ -0.207007527, 51.506939309 ] } },
+{ "type": "Feature", "properties": { "name": "Unknown", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 80, "park_offical_id": "KENCH_30" }, "geometry": { "type": "Point", "coordinates": [ -0.201385617, 51.512361561 ] } },
+{ "type": "Feature", "properties": { "name": "Notting Hill Gate", "payment_info": "030 coins only 5p 10p 20p or 50p  no change given", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "False", "Mon": "00:00-00:00", "Tue": "00:00-00:00", "Wed": "00:00-00:00", "Thu": "00:00-00:00", "Fri": "00:00-00:00", "Sat": "00:00-00:00", "Sun": "00:00-00:00", "index_right": 80, "park_offical_id": "KENCH_30" }, "geometry": { "type": "Point", "coordinates": [ -0.19837, 51.508856 ] } },
+{ "type": "Feature", "properties": { "name": "Tabernacle", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 80, "park_offical_id": "KENCH_30" }, "geometry": { "type": "Point", "coordinates": [ -0.201938152, 51.517065297 ] } }
+]
+}

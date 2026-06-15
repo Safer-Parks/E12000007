@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "NEWHA_31_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "The Holly Tree Pub", "payment_info": "Cost unknown", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 100, "park_offical_id": "NEWHA_31" }, "geometry": { "type": "Point", "coordinates": [ 0.020492077, 51.555715004 ] } },
+{ "type": "Feature", "properties": { "name": "Stratford International", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "Unknown", "men": "Unknown", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 100, "park_offical_id": "NEWHA_31" }, "geometry": { "type": "Point", "coordinates": [ 0.009883, 51.544306 ] } },
+{ "type": "Feature", "properties": { "name": "The Gate Community Neighbourhood Centre  Library", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "00:00-00:00", "Tue": "00:00-00:00", "Wed": "00:00-00:00", "Thu": "00:00-00:00", "Fri": "00:00-00:00", "Sat": "00:00-00:00", "Sun": "00:00-00:00", "index_right": 100, "park_offical_id": "NEWHA_31" }, "geometry": { "type": "Point", "coordinates": [ 0.025797486, 51.546803758 ] } }
+]
+}

@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "CAMDE_44_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kilburn Tube Station", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 81, "park_offical_id": "CAMDE_44" }, "geometry": { "type": "Point", "coordinates": [ -0.204700828, 51.54696055 ] } },
+{ "type": "Feature", "properties": { "name": "Community Toilet Scheme McDonalds", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 81, "park_offical_id": "CAMDE_44" }, "geometry": { "type": "Point", "coordinates": [ -0.195506215, 51.539587422 ] } },
+{ "type": "Feature", "properties": { "name": "West Hampstead Tube Station Jubilee line", "payment_info": "yes", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 81, "park_offical_id": "CAMDE_44" }, "geometry": { "type": "Point", "coordinates": [ -0.190828443, 51.54676873 ] } },
+{ "type": "Feature", "properties": { "name": "West Hampstead station", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 81, "park_offical_id": "CAMDE_44" }, "geometry": { "type": "Point", "coordinates": [ -0.192022026, 51.548116454 ] } },
+{ "type": "Feature", "properties": { "name": "Kilburn Grange Park Changing Rooms", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Closed", "Tue": "Closed", "Wed": "Closed", "Thu": "Closed", "Fri": "Closed", "Sat": "13:00-17:00", "Sun": "13:00-17:00", "index_right": 81, "park_offical_id": "CAMDE_44" }, "geometry": { "type": "Point", "coordinates": [ -0.199685097, 51.543933041 ] } }
+]
+}

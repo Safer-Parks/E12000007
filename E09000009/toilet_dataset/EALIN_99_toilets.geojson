@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "EALIN_99_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Riverside Venue", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 188, "park_offical_id": "EALIN_99" }, "geometry": { "type": "Point", "coordinates": [ -0.417817354, 51.480965511 ] } },
+{ "type": "Feature", "properties": { "name": "Cranford Park", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 188, "park_offical_id": "EALIN_99" }, "geometry": { "type": "Point", "coordinates": [ -0.4152736, 51.491618 ] } },
+{ "type": "Feature", "properties": { "name": "Cranford Library", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 188, "park_offical_id": "EALIN_99" }, "geometry": { "type": "Point", "coordinates": [ -0.406524181, 51.478066988 ] } },
+{ "type": "Feature", "properties": { "name": "Travelodge Heathrow Central", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 188, "park_offical_id": "EALIN_99" }, "geometry": { "type": "Point", "coordinates": [ -0.40926218, 51.478790197 ] } },
+{ "type": "Feature", "properties": { "name": "Double Tree by Hilton London Heathrow", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 188, "park_offical_id": "EALIN_99" }, "geometry": { "type": "Point", "coordinates": [ -0.411086082, 51.480197562 ] } }
+]
+}

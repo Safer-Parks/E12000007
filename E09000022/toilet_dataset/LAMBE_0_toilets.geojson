@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "LAMBE_0_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Streatham Hill Station", "payment_info": "Free", "accessible": "False", "radar": "True", "women": "Unknown", "men": "Unknown", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 0, "park_offical_id": "LAMBE_0" }, "geometry": { "type": "Point", "coordinates": [ -0.12757659, 51.438284697 ] } },
+{ "type": "Feature", "properties": { "name": "Sexual Health Centre", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "08:00-18:00", "Tue": "08:00-18:00", "Wed": "12:30-18:00", "Thu": "08:00-18:00", "Fri": "08:00-18:00", "Sat": "Closed", "Sun": "Closed", "index_right": 0, "park_offical_id": "LAMBE_0" }, "geometry": { "type": "Point", "coordinates": [ -0.124652982, 51.441212535 ] } },
+{ "type": "Feature", "properties": { "name": "McDonalds", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 0, "park_offical_id": "LAMBE_0" }, "geometry": { "type": "Point", "coordinates": [ -0.125157237, 51.445866481 ] } },
+{ "type": "Feature", "properties": { "name": "The Hamlet", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 0, "park_offical_id": "LAMBE_0" }, "geometry": { "type": "Point", "coordinates": [ -0.127415657, 51.437885094 ] } }
+]
+}

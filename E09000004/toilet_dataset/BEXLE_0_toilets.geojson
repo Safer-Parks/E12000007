@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "BEXLE_0_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "sainsburys", "payment_info": "Cost unknown", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "00:00-00:00", "Tue": "00:00-00:00", "Wed": "00:00-00:00", "Thu": "00:00-00:00", "Fri": "00:00-00:00", "Sat": "00:00-00:00", "Sun": "00:00-00:00", "index_right": 0, "park_offical_id": "BEXLE_0" }, "geometry": { "type": "Point", "coordinates": [ 0.120417892, 51.493204661 ] } },
+{ "type": "Feature", "properties": { "name": "Thamesmead Library", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:30-19:00", "Tue": "Closed", "Wed": "09:30-17:30", "Thu": "Closed", "Fri": "09:30-17:30", "Sat": "09:30-17:00", "Sun": "Closed", "index_right": 0, "park_offical_id": "BEXLE_0" }, "geometry": { "type": "Point", "coordinates": [ 0.12237844, 51.500580329 ] } },
+{ "type": "Feature", "properties": { "name": "Knee Hill", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "00:00-00:00", "Tue": "00:00-00:00", "Wed": "00:00-00:00", "Thu": "00:00-00:00", "Fri": "00:00-00:00", "Sat": "00:00-00:00", "Sun": "00:00-00:00", "index_right": 0, "park_offical_id": "BEXLE_0" }, "geometry": { "type": "Point", "coordinates": [ 0.121217, 51.489551 ] } },
+{ "type": "Feature", "properties": { "name": "Abbey Wood Station", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 0, "park_offical_id": "BEXLE_0" }, "geometry": { "type": "Point", "coordinates": [ 0.120549202, 51.491021735 ] } }
+]
+}

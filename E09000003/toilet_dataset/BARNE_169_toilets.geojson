@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "BARNE_169_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Redwood Cafe Swan Lane Open Space", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 43, "park_offical_id": "BARNE_169" }, "geometry": { "type": "Point", "coordinates": [ -0.17817378, 51.624158081 ] } },
+{ "type": "Feature", "properties": { "name": "High Road Totteridge", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 43, "park_offical_id": "BARNE_169" }, "geometry": { "type": "Point", "coordinates": [ -0.1755956, 51.6319909 ] } },
+{ "type": "Feature", "properties": { "name": "Totteridge and Whetstone Station", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 43, "park_offical_id": "BARNE_169" }, "geometry": { "type": "Point", "coordinates": [ -0.179064274, 51.630583802 ] } }
+]
+}

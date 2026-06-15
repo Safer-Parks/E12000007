@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HACKN_1_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Closed due to Coronavirus", "payment_info": "true", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Closed", "Tue": "Closed", "Wed": "Closed", "Thu": "Closed", "Fri": "Closed", "Sat": "Closed", "Sun": "Closed", "index_right": 1, "park_offical_id": "HACKN_1" }, "geometry": { "type": "Point", "coordinates": [ -0.075895786, 51.546335048 ] } }
+]
+}

@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "NEWHA_284_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Cemetery cafe public  toilet", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 86, "park_offical_id": "NEWHA_284" }, "geometry": { "type": "Point", "coordinates": [ 0.044460297, 51.557997055 ] } },
+{ "type": "Feature", "properties": { "name": "Manor Park Library", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 86, "park_offical_id": "NEWHA_284" }, "geometry": { "type": "Point", "coordinates": [ 0.047163963, 51.550748405 ] } },
+{ "type": "Feature", "properties": { "name": "Cemetery cafe public  toilet", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 86, "park_offical_id": "NEWHA_284" }, "geometry": { "type": "Point", "coordinates": [ 0.044460297, 51.558003726 ] } }
+]
+}

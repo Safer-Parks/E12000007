@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "SOUT6_9_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Nunhead Library", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "14:00-19:00", "Tue": "14:00-19:00", "Wed": "10:00-15:00", "Thu": "14:00-19:00", "Fri": "10:00-15:00", "Sat": "10:00-17:00", "Sun": "Closed", "index_right": 183, "park_offical_id": "SOUT6_9" }, "geometry": { "type": "Point", "coordinates": [ -0.059595572, 51.4656771 ] } },
+{ "type": "Feature", "properties": { "name": "Atwell Road", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "00:00-00:00", "Tue": "00:00-00:00", "Wed": "00:00-00:00", "Thu": "00:00-00:00", "Fri": "00:00-00:00", "Sat": "00:00-00:00", "Sun": "00:00-00:00", "index_right": 183, "park_offical_id": "SOUT6_9" }, "geometry": { "type": "Point", "coordinates": [ -0.066871, 51.4682771 ] } }
+]
+}

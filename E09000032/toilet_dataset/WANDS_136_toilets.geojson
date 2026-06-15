@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "WANDS_136_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Wandsworth Town Hall  Fairfield St", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "Closed", "Sun": "Closed", "index_right": 12, "park_offical_id": "WANDS_136" }, "geometry": { "type": "Point", "coordinates": [ -0.190289319, 51.457744005 ] } },
+{ "type": "Feature", "properties": { "name": "Wandsworth Town Library", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 12, "park_offical_id": "WANDS_136" }, "geometry": { "type": "Point", "coordinates": [ -0.192370713, 51.45614625 ] } },
+{ "type": "Feature", "properties": { "name": "Wandsworth Town Hall", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 12, "park_offical_id": "WANDS_136" }, "geometry": { "type": "Point", "coordinates": [ -0.191512406, 51.456851542 ] } },
+{ "type": "Feature", "properties": { "name": "South Thames College", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "08:00-17:00", "Tue": "08:00-17:00", "Wed": "08:00-17:00", "Thu": "08:00-17:00", "Fri": "08:00-17:00", "Sat": "Closed", "Sun": "Closed", "index_right": 12, "park_offical_id": "WANDS_136" }, "geometry": { "type": "Point", "coordinates": [ -0.190297365, 51.456323213 ] } }
+]
+}

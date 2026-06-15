@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "HAVER_302_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Rainham Essex Station", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 38, "park_offical_id": "HAVER_302" }, "geometry": { "type": "Point", "coordinates": [ 0.19054091, 51.516874917 ] } },
+{ "type": "Feature", "properties": { "name": "Tesco Extra Rainham", "payment_info": "Cost unknown", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "00:00-00:00", "Tue": "00:00-00:00", "Wed": "00:00-00:00", "Thu": "00:00-00:00", "Fri": "00:00-00:00", "Sat": "00:00-00:00", "Sun": "00:00-00:00", "index_right": 38, "park_offical_id": "HAVER_302" }, "geometry": { "type": "Point", "coordinates": [ 0.190656781, 51.520173035 ] } }
+]
+}

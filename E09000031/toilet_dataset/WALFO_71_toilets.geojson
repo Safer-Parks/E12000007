@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "WALFO_71_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "E J Lancaster Garden Centre", "payment_info": "Cost unknown", "accessible": "False", "radar": "False", "women": "Unknown", "men": "Unknown", "baby_change": "True", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 84, "park_offical_id": "WALFO_71" }, "geometry": { "type": "Point", "coordinates": [ -0.002553463, 51.586076514 ] } },
+{ "type": "Feature", "properties": { "name": "Wood Street Library", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-19:00", "Tue": "09:00-19:00", "Wed": "09:00-19:00", "Thu": "09:00-19:00", "Fri": "09:00-19:00", "Sat": "09:00-18:00", "Sun": "12:00-16:00", "index_right": 84, "park_offical_id": "WALFO_71" }, "geometry": { "type": "Point", "coordinates": [ -0.004253983, 51.587106202 ] } }
+]
+}

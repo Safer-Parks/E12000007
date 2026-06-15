@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "SOUT6_359_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Kingswood Library", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "10:00-14:00", "Tue": "14:00-18:00", "Wed": "Closed", "Thu": "10:00-14:00", "Fri": "14:00-18:00", "Sat": "13:00-17:00", "Sun": "Closed", "index_right": 119, "park_offical_id": "SOUT6_359" }, "geometry": { "type": "Point", "coordinates": [ -0.080329478, 51.430514331 ] } },
+{ "type": "Feature", "properties": { "name": "Belair Park", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 119, "park_offical_id": "SOUT6_359" }, "geometry": { "type": "Point", "coordinates": [ -0.0896934, 51.4422088 ] } }
+]
+}

@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "CROYD_73_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Colonnades Leisure Park  Croydon", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 87, "park_offical_id": "CROYD_73" }, "geometry": { "type": "Point", "coordinates": [ -0.114970207, 51.356862322 ] } },
+{ "type": "Feature", "properties": { "name": "Esso Filling Station  Croydon West", "payment_info": "Cost unknown", "accessible": "True", "radar": "False", "women": "Unknown", "men": "Unknown", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 87, "park_offical_id": "CROYD_73" }, "geometry": { "type": "Point", "coordinates": [ -0.118585825, 51.364228174 ] } },
+{ "type": "Feature", "properties": { "name": "Esso Filling Station  South Croydon", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "00:00-00:00", "Tue": "00:00-00:00", "Wed": "00:00-00:00", "Thu": "00:00-00:00", "Fri": "00:00-00:00", "Sat": "00:00-00:00", "Sun": "00:00-00:00", "index_right": 87, "park_offical_id": "CROYD_73" }, "geometry": { "type": "Point", "coordinates": [ -0.097503662, 51.358634389 ] } },
+{ "type": "Feature", "properties": { "name": "Waddon Leisure Centre", "payment_info": "Cost unknown", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 87, "park_offical_id": "CROYD_73" }, "geometry": { "type": "Point", "coordinates": [ -0.117566586, 51.364147789 ] } }
+]
+}

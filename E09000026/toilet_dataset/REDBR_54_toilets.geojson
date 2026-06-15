@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "REDBR_54_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "GARDENS OF PEACE", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "Unknown", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 50, "park_offical_id": "REDBR_54" }, "geometry": { "type": "Point", "coordinates": [ 0.114133358, 51.605596609 ] } },
+{ "type": "Feature", "properties": { "name": "Fairlop Waters", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "10:00-17:30", "Tue": "10:00-17:30", "Wed": "10:00-17:30", "Thu": "10:00-17:30", "Fri": "10:00-17:30", "Sat": "10:00-17:30", "Sun": "10:00-17:30", "index_right": 50, "park_offical_id": "REDBR_54" }, "geometry": { "type": "Point", "coordinates": [ 0.09797942, 51.595109162 ] } },
+{ "type": "Feature", "properties": { "name": "Manford Way", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "False", "men": "False", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 50, "park_offical_id": "REDBR_54" }, "geometry": { "type": "Point", "coordinates": [ 0.10664463, 51.608061438 ] } }
+]
+}

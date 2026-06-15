@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "MERTO_36_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Canons Leisure Centre", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "06:00-22:00", "Tue": "06:00-22:00", "Wed": "06:00-22:00", "Thu": "06:00-22:00", "Fri": "06:00-20:00", "Sat": "08:00-17:00", "Sun": "08:00-17:00", "index_right": 81, "park_offical_id": "MERTO_36" }, "geometry": { "type": "Point", "coordinates": [ -0.162802245, 51.40054288 ] } },
+{ "type": "Feature", "properties": { "name": "Mitcham Library", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "08:00-20:00", "Tue": "08:00-20:00", "Wed": "08:00-20:00", "Thu": "08:00-20:00", "Fri": "08:00-20:00", "Sat": "08:00-17:00", "Sun": "Closed", "index_right": 81, "park_offical_id": "MERTO_36" }, "geometry": { "type": "Point", "coordinates": [ -0.162525197, 51.408659017 ] } },
+{ "type": "Feature", "properties": { "name": "Cricket Green Medical Practice", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 81, "park_offical_id": "MERTO_36" }, "geometry": { "type": "Point", "coordinates": [ -0.172757493, 51.404804803 ] } },
+{ "type": "Feature", "properties": { "name": "Canons", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 81, "park_offical_id": "MERTO_36" }, "geometry": { "type": "Point", "coordinates": [ -0.163330732, 51.399989348 ] } },
+{ "type": "Feature", "properties": { "name": "Asda", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 81, "park_offical_id": "MERTO_36" }, "geometry": { "type": "Point", "coordinates": [ -0.168246415, 51.407401968 ] } }
+]
+}

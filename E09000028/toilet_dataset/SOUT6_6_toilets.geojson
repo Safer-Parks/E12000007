@@ -1,0 +1,12 @@
+{
+"type": "FeatureCollection",
+"name": "SOUT6_6_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Crystal Palace Bus Station", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 150, "park_offical_id": "SOUT6_6" }, "geometry": { "type": "Point", "coordinates": [ -0.077880621, 51.420820931 ] } },
+{ "type": "Feature", "properties": { "name": "Norwood Park public toilets", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 150, "park_offical_id": "SOUT6_6" }, "geometry": { "type": "Point", "coordinates": [ -0.094186702, 51.425841484 ] } },
+{ "type": "Feature", "properties": { "name": "Gipsy Hill Station", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "Unknown", "men": "Unknown", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 150, "park_offical_id": "SOUT6_6" }, "geometry": { "type": "Point", "coordinates": [ -0.083830832, 51.42445509 ] } },
+{ "type": "Feature", "properties": { "name": "Westow Street", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "09:00-17:00", "Tue": "09:00-17:00", "Wed": "09:00-17:00", "Thu": "09:00-17:00", "Fri": "09:00-17:00", "Sat": "09:00-17:00", "Sun": "09:00-17:00", "index_right": 150, "park_offical_id": "SOUT6_6" }, "geometry": { "type": "Point", "coordinates": [ -0.082021952, 51.417706418 ] } },
+{ "type": "Feature", "properties": { "name": "Kingswood Library", "payment_info": "Free", "accessible": "True", "radar": "True", "women": "True", "men": "True", "baby_change": "True", "Mon": "10:00-14:00", "Tue": "14:00-18:00", "Wed": "Closed", "Thu": "10:00-14:00", "Fri": "14:00-18:00", "Sat": "13:00-17:00", "Sun": "Closed", "index_right": 150, "park_offical_id": "SOUT6_6" }, "geometry": { "type": "Point", "coordinates": [ -0.080329478, 51.430514331 ] } }
+]
+}

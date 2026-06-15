@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "KENCH_37_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Talbot Road", "payment_info": "Free", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "08:00-18:00", "Tue": "08:00-18:00", "Wed": "08:00-18:00", "Thu": "08:00-18:00", "Fri": "08:00-18:00", "Sat": "08:00-18:00", "Sun": "Closed", "index_right": 87, "park_offical_id": "KENCH_37" }, "geometry": { "type": "Point", "coordinates": [ -0.2047463, 51.5158995 ] } },
+{ "type": "Feature", "properties": { "name": "Queens Park Library ", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:30-20:00", "Tue": "09:30-19:00", "Wed": "09:30-19:00", "Thu": "09:30-19:00", "Fri": "09:30-19:00", "Sat": "09:30-17:00", "Sun": "Closed", "index_right": 87, "park_offical_id": "KENCH_37" }, "geometry": { "type": "Point", "coordinates": [ -0.2108025, 51.5270511 ] } },
+{ "type": "Feature", "properties": { "name": "Bevington Road", "payment_info": "Cost unknown", "accessible": "False", "radar": "False", "women": "True", "men": "True", "baby_change": "False", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 87, "park_offical_id": "KENCH_37" }, "geometry": { "type": "Point", "coordinates": [ -0.209383965, 51.521115996 ] } },
+{ "type": "Feature", "properties": { "name": "Sainsburys", "payment_info": "Free", "accessible": "Unknown", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 87, "park_offical_id": "KENCH_37" }, "geometry": { "type": "Point", "coordinates": [ -0.21714896, 51.526000408 ] } }
+]
+}

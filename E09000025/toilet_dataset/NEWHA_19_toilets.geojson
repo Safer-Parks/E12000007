@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "NEWHA_19_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Beckton District Park North Park Toilets", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 42, "park_offical_id": "NEWHA_19" }, "geometry": { "type": "Point", "coordinates": [ 0.042775869, 51.516928432 ] } },
+{ "type": "Feature", "properties": { "name": "Custom House Library", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 42, "park_offical_id": "NEWHA_19" }, "geometry": { "type": "Point", "coordinates": [ 0.031553507, 51.515084045 ] } },
+{ "type": "Feature", "properties": { "name": "Beckton District Park Toilets South Park", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 42, "park_offical_id": "NEWHA_19" }, "geometry": { "type": "Point", "coordinates": [ 0.045039654, 51.512895722 ] } }
+]
+}
