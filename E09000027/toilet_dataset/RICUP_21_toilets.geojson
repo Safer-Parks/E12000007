@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "RICUP_21_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "London Wetland Centre", "payment_info": "Free", "accessible": "False", "radar": "Unknown", "women": "Unknown", "men": "Unknown", "baby_change": "Unknown", "Mon": "Unknown", "Tue": "Unknown", "Wed": "Unknown", "Thu": "Unknown", "Fri": "Unknown", "Sat": "Unknown", "Sun": "Unknown", "index_right": 60, "park_offical_id": "RICUP_21" }, "geometry": { "type": "Point", "coordinates": [ -0.239574909, 51.478636682 ] } },
+{ "type": "Feature", "properties": { "name": "Olympic Studios", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-22:00", "Tue": "09:00-22:00", "Wed": "09:00-22:00", "Thu": "09:00-22:00", "Fri": "09:00-22:00", "Sat": "09:00-22:00", "Sun": "09:00-21:00", "index_right": 60, "park_offical_id": "RICUP_21" }, "geometry": { "type": "Point", "coordinates": [ -0.2406378, 51.4752649 ] } },
+{ "type": "Feature", "properties": { "name": "The Nest", "payment_info": "Free", "accessible": "True", "radar": "False", "women": "False", "men": "False", "baby_change": "True", "Mon": "08:00-16:00", "Tue": "08:00-16:00", "Wed": "08:00-16:00", "Thu": "08:00-16:00", "Fri": "08:00-16:00", "Sat": "09:00-16:30", "Sun": "09:30-16:30", "index_right": 60, "park_offical_id": "RICUP_21" }, "geometry": { "type": "Point", "coordinates": [ -0.249166489, 51.473823479 ] } },
+{ "type": "Feature", "properties": { "name": "OSO Arts Centre ", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:00-18:00", "Tue": "09:00-18:00", "Wed": "09:00-18:00", "Thu": "09:00-18:00", "Fri": "09:00-18:00", "Sat": "09:00-16:00", "Sun": "10:00-16:00", "index_right": 60, "park_offical_id": "RICUP_21" }, "geometry": { "type": "Point", "coordinates": [ -0.246663988, 51.472275584 ] } }
+]
+}

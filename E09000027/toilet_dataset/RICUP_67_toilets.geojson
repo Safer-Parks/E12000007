@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "RICUP_67_toilets",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "name": "Ham Library  Public Toilets ", "payment_info": "Free", "accessible": "True", "radar": "Unknown", "women": "True", "men": "True", "baby_change": "True", "Mon": "09:30-18:00", "Tue": "09:30-18:00", "Wed": "10:00-19:00", "Thu": "Closed", "Fri": "09:30-18:00", "Sat": "09:30-16:00", "Sun": "Closed", "index_right": 109, "park_offical_id": "RICUP_67" }, "geometry": { "type": "Point", "coordinates": [ -0.313231051, 51.437852525 ] } }
+]
+}
