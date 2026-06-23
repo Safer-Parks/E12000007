@@ -1,0 +1,15 @@
+{
+"type": "FeatureCollection",
+"name": "HAVER_24_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.203483,51.57923],[0.2035017,51.5793323],[0.2060791,51.5802139]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.2070928,51.5725352],[0.2070793,51.5724698],[0.207311,51.5719992],[0.2073405,51.5719463],[0.2073894,51.5719084],[0.2086549,51.5715632],[0.2090268,51.5714611],[0.2094157,51.5713805]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.2085602,51.5714327],[0.2085595,51.5714209],[0.20858,51.5714091],[0.2081664,51.5707771]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.212211,51.5753948],[0.2119989,51.5753473],[0.2119104,51.5752589],[0.2118701,51.5751456],[0.2118395,51.5750159]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.227283,51.5739138],[0.2274519,51.5743662],[0.2276415,51.5747039],[0.2278639,51.5751295],[0.2279722,51.5751872]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.2114995,51.5771767],[0.211661,51.5773492],[0.2118643,51.5774453]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.2113669,51.5749164],[0.2112958,51.5749522],[0.2112452,51.5751725],[0.2112772,51.5752061]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.2197667,51.5678552],[0.2197926,51.5678948],[0.219846,51.5679047]]]}}
+]
+}

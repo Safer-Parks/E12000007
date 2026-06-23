@@ -1,0 +1,28 @@
+{
+"type": "FeatureCollection",
+"name": "LAMBE_93_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":"Hillside Passage","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1178337,51.4368779],[-0.1177894,51.4368952],[-0.1176984,51.4369394],[-0.1174673,51.4370391],[-0.1174136,51.4370849],[-0.1173958,51.4371011],[-0.1172434,51.4372372],[-0.1172364,51.4372686],[-0.117236,51.4372803]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1194116,51.4287327],[-0.119429,51.4286934],[-0.1194395,51.4286689]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Mount Nod Road","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1224718,51.4343559],[-0.1224452,51.4343733],[-0.1224367,51.4343777],[-0.1223821,51.4343789]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1178337,51.4368779],[-0.1178264,51.4368595],[-0.1178318,51.4368405],[-0.1178586,51.4368178]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1183708,51.4288369],[-0.1183752,51.4287589],[-0.1183832,51.4286352],[-0.1184154,51.4285348],[-0.1184905,51.4284378],[-0.1186005,51.4282923],[-0.1187614,51.4281937]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1183708,51.4288369],[-0.1180801,51.4287757],[-0.1179326,51.4287405],[-0.117828,51.4286987],[-0.1176912,51.42858],[-0.1176858,51.4284696],[-0.11771,51.4283225],[-0.1178199,51.4282071],[-0.1179299,51.4281803],[-0.1179503,51.4281783],[-0.118068,51.4281669],[-0.1182223,51.4282204]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1183708,51.4288369],[-0.1181981,51.4287305],[-0.1181606,51.4286586],[-0.1180989,51.4285081],[-0.1181123,51.4283843],[-0.1181659,51.428284],[-0.1182223,51.4282204],[-0.1182947,51.428202],[-0.1184342,51.4282104],[-0.1185629,51.4282405],[-0.1186005,51.4282923]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1179503,51.4281783],[-0.117895,51.4279779]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Hillside Passage","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1178715,51.4368656],[-0.1178337,51.4368779]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1178715,51.4368656],[-0.1179319,51.4368307]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Mount Nod Road","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1194073,51.4358983],[-0.1193949,51.4359047],[-0.1193307,51.4359379],[-0.1192697,51.435972]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Rosedene Avenue","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1174037,51.4355801],[-0.1174241,51.4355602],[-0.1174385,51.4355504],[-0.1174445,51.4355449],[-0.1174502,51.4355424]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Hillside Passage","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.117236,51.4372803],[-0.1172346,51.4373262]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Leigham Avenue","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1225506,51.4343102],[-0.1225796,51.4343074],[-0.1226233,51.4343092],[-0.1226873,51.4343122]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1213232,51.4289359],[-0.121303,51.4289697],[-0.1212951,51.4289823],[-0.1212568,51.4290446],[-0.1212164,51.4290747]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Gracefield Gardens","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1283349,51.4329026],[-0.1283783,51.4328889],[-0.1284433,51.4329041],[-0.1284628,51.4329069]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Gracefield Gardens","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.128439,51.4329466],[-0.1283945,51.4329345],[-0.1283621,51.4329277],[-0.1283349,51.4329026]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Leigham Avenue","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1226873,51.4343122],[-0.1227279,51.4343161]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1225097,51.4343339],[-0.1224718,51.4343559]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1225506,51.4343102],[-0.1225097,51.4343339]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Culverhouse Gardens","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1222452,51.4336821],[-0.1222033,51.4337489]]]}}
+]
+}

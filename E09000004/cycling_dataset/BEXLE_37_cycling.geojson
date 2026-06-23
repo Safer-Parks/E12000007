@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"name": "BEXLE_37_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1468699,51.4595239],[0.1469234,51.4591612],[0.1469931,51.4591278],[0.1471943,51.4591345]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1487151,51.4600352],[0.1475403,51.4599751],[0.1474813,51.45994],[0.1475285,51.4595616]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1479386,51.4603022],[0.1479037,51.4602178],[0.1478816,51.460156],[0.1479131,51.4600925],[0.1479936,51.4600641],[0.1481565,51.4600499],[0.1484395,51.4600958],[0.1487184,51.4602145],[0.1487533,51.4602592]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1385419,51.4646581],[0.1386619,51.4649037]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1385419,51.4646581],[0.1382686,51.4640697],[0.1382342,51.4639955],[0.138182,51.4639774]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.138182,51.4639774],[0.1382115,51.4639523],[0.1381686,51.4638621]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Albion Road","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.142226,51.4557516],[0.142163,51.4557429],[0.142083,51.4557697],[0.1419206,51.455827],[0.1417635,51.4558886],[0.1417095,51.4559063],[0.1416229,51.45594],[0.1415924,51.4559512],[0.1413576,51.4560176],[0.1412521,51.4560446],[0.1410815,51.4560851],[0.1408894,51.4561289],[0.1407534,51.4561536],[0.1404509,51.4561913],[0.1400558,51.4562436],[0.1395361,51.4563212],[0.1393954,51.4563448],[0.1392682,51.4563751],[0.139122,51.4564156],[0.139011,51.4564645],[0.1389623,51.4564898],[0.1389478,51.4565346]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Albion Road","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1390568,51.4565639],[0.1391211,51.4565521],[0.1391791,51.456524],[0.1392595,51.4564939],[0.1393979,51.4564538],[0.1394913,51.4564317],[0.1396586,51.4564057],[0.1400191,51.4563555],[0.1401841,51.456329],[0.1409719,51.4562151],[0.1410942,51.4561951],[0.1412422,51.456163],[0.1413203,51.4561396],[0.1413838,51.4561209],[0.1415931,51.4560487],[0.1417379,51.4560046],[0.141828,51.4559805],[0.141902,51.4559564],[0.142034,51.4559143],[0.1421916,51.4558572],[0.1422527,51.4558351],[0.1422586,51.4558169]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.138182,51.4639774],[0.1375539,51.4640899]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1427752,51.4566587],[0.1427683,51.4566382],[0.1427553,51.4565996]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1498915,51.4597114],[0.1496056,51.4600022],[0.1495653,51.4600169],[0.1487151,51.4600352]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1488995,51.4607557],[0.148939,51.4608107],[0.1491389,51.4614925]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1487533,51.4602592],[0.14887,51.4607234],[0.1488995,51.4607557]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1474705,51.4609536],[0.1476784,51.4609389],[0.1475926,51.4605232],[0.1476274,51.4604205],[0.1477059,51.460372],[0.1479077,51.4603503],[0.1479386,51.4603022]]]}}
+]
+}

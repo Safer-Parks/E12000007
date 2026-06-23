@@ -1,0 +1,30 @@
+{
+"type": "FeatureCollection",
+"name": "BREN5_47_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2281237,51.539462],[-0.2286541,51.5396323],[-0.2286868,51.5397891],[-0.2287562,51.5398884],[-0.2288818,51.5399471],[-0.2304138,51.540065],[-0.2309774,51.5397231],[-0.2314389,51.5399564],[-0.2315588,51.540082],[-0.2315334,51.5401672],[-0.2313408,51.5403097],[-0.2313054,51.5403359]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Wakeman Road","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2167837,51.5309893],[-0.2168657,51.530977],[-0.2170331,51.5309522],[-0.217071,51.530945]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2109581,51.5430128],[-0.211064,51.5430685],[-0.2113086,51.5431974]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2158855,51.5379172],[-0.2158801,51.5378738],[-0.2158613,51.5378421],[-0.2157809,51.537797],[-0.2157031,51.537782],[-0.2156199,51.537772],[-0.2154296,51.5379239],[-0.2151371,51.5381574],[-0.215172,51.5382158],[-0.2152256,51.5382575],[-0.2153088,51.5382775],[-0.2153348,51.5382785],[-0.2153946,51.5382808],[-0.2155077,51.5381971],[-0.2157247,51.5380363],[-0.2157669,51.538005],[-0.2158855,51.5379172]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2155077,51.5381971],[-0.2155442,51.5380589],[-0.2156199,51.537772]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2153348,51.5382785],[-0.2153831,51.5380979],[-0.2154296,51.5379239]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2157669,51.538005],[-0.2155442,51.5380589],[-0.2153831,51.5380979],[-0.2151371,51.5381574]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Chamberlayne Road","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2185965,51.5335093],[-0.2186641,51.5335109]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Bolton Gardens","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2186243,51.5332624],[-0.218618,51.5333188],[-0.2185722,51.5333342]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2118112,51.5423222],[-0.2118152,51.5422788],[-0.2118868,51.5422757]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2118868,51.5422757],[-0.2118706,51.5423144],[-0.2118112,51.5423222]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Keslake Road","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2185965,51.5335093],[-0.218554,51.5335197]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Chamberlayne Road","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2189982,51.5339827],[-0.2193723,51.5345138]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2185722,51.5333342],[-0.2185296,51.5333489]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2185296,51.5333489],[-0.2184885,51.5333623]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Bathurst Gardens","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2257659,51.5337634],[-0.2258118,51.5337337],[-0.2258927,51.5337269],[-0.2260291,51.5337154],[-0.2260932,51.5337375]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2280466,51.5394357],[-0.2281237,51.539462]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.22796,51.5394062],[-0.2280466,51.5394357]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Chamberlayne Road","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2188675,51.5337927],[-0.2188447,51.5338412]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Chamberlayne Road","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2189355,51.5339763],[-0.2189982,51.5339827]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Chamberlayne Road","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2186641,51.5335109],[-0.2188675,51.5337927]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Keslake Road","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.218554,51.5335197],[-0.2185155,51.5335291]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Chamberlayne Road","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2193723,51.5345138],[-0.2193387,51.5345379]]]}}
+]
+}

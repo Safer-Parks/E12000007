@@ -1,0 +1,23 @@
+{
+"type": "FeatureCollection",
+"name": "HAVER_42_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1770925,51.5699337],[0.1758415,51.5696585]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1743693,51.5728322],[0.1745886,51.5724553]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1813267,51.5745713],[0.1813063,51.5745459],[0.1812615,51.5745085],[0.1798197,51.5741213],[0.1793883,51.5739881],[0.179104,51.573936],[0.1790211,51.5739119],[0.1790173,51.5739108],[0.1788889,51.5738814]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1747804,51.5654083],[0.1747132,51.5653418],[0.174454,51.565326],[0.1743015,51.5653176],[0.174229,51.565313],[0.173714,51.565287],[0.173283,51.56526],[0.172365,51.565191],[0.171847,51.565119],[0.171343,51.565012],[0.170534,51.564835],[0.1703993,51.5648028],[0.170323,51.564785],[0.169631,51.564619],[0.167842,51.564198],[0.1676678,51.5641525],[0.167593,51.564133],[0.166451,51.563874],[0.166078,51.563786],[0.165009,51.563575]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1755114,51.5624102],[0.1752762,51.5624245],[0.1750796,51.5624553]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1792286,51.5725983],[0.1792524,51.5725761],[0.1797818,51.5720811],[0.1799673,51.5717447],[0.1799913,51.5716156],[0.1800142,51.5711762],[0.1800474,51.571102]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.181415,51.570571],[0.1813969,51.5705664],[0.1813854,51.5705635],[0.1813051,51.570543],[0.1800703,51.570218],[0.1799993,51.5701993],[0.1798,51.5701334],[0.1797529,51.5701178]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.177136,51.5711446],[0.1773713,51.5706743]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1751943,51.5708211],[0.1750184,51.5708177]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1743817,51.572965],[0.1743494,51.5729289],[0.1743292,51.5729062],[0.1743693,51.5728322]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1745886,51.5724553],[0.1746281,51.5723553],[0.1747108,51.5722436]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1786633,51.5738296],[0.1786062,51.5739508],[0.1777158,51.5756707]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1786844,51.5738344],[0.1786633,51.5738296]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1788889,51.5738814],[0.1788166,51.5738648],[0.178716,51.5738417],[0.1786844,51.5738344]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1797346,51.5701117],[0.1797186,51.5701063],[0.1796747,51.5700914]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Rush Green Road","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1857134,51.5656352],[0.1850053,51.5656411],[0.1847573,51.5656414],[0.1846363,51.5656563]]]}}
+]
+}

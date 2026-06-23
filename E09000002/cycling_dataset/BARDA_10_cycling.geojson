@@ -1,0 +1,17 @@
+{
+"type": "FeatureCollection",
+"name": "BARDA_10_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1346241,51.5575162],[0.1345937,51.5571349]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Wood Lane","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1427095,51.5543304],[0.1433056,51.5544865],[0.143498,51.5545376],[0.1437378,51.5546638],[0.1441461,51.5549587],[0.1443012,51.5550759],[0.144725,51.5553839],[0.1448837,51.5554997],[0.144996,51.5555816],[0.1452233,51.5557473],[0.1452673,51.5557794],[0.1454707,51.5559278],[0.1463858,51.5566396],[0.1464115,51.5566596],[0.1466617,51.5568542]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Wood Lane","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1388918,51.5534819],[0.1395898,51.5536511],[0.140237,51.5537925],[0.1410978,51.5539851],[0.1414502,51.5540643]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Wood Lane","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1358361,51.5525373],[0.1360568,51.552563],[0.1362638,51.5525945],[0.1365682,51.5526844],[0.1368107,51.5527766],[0.1371204,51.5529029],[0.1374154,51.5530094],[0.1377496,51.5531186],[0.1384068,51.5533331],[0.1387191,51.5534318],[0.1388918,51.5534819]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Wood Lane","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1468668,51.5570536],[0.1468885,51.5570747],[0.1469885,51.5571868],[0.1471648,51.5574838]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Wood Lane","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1305211,51.5518183],[0.1306603,51.55183],[0.1307154,51.5518359],[0.1315071,51.5519214],[0.1321914,51.552039],[0.1328837,51.5522062],[0.1334157,51.5523233],[0.1338552,51.5523907],[0.1341252,51.5524145],[0.1343999,51.5524346],[0.1358361,51.5525373]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Haskard Road","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1323832,51.5499116],[0.1323368,51.5498879],[0.132329,51.5498839],[0.1322767,51.5498572]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Wood Lane","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[0.147391,51.5579203],[0.1475582,51.558374],[0.1475974,51.5584824]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Wood Lane","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1471648,51.5574838],[0.1472932,51.5577002],[0.147391,51.5579203]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Wood Lane","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1466617,51.5568542],[0.1468668,51.5570536]]]}}
+]
+}

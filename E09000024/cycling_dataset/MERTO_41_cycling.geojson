@@ -1,0 +1,22 @@
+{
+"type": "FeatureCollection",
+"name": "MERTO_41_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1369762,51.4180675],[-0.1370138,51.4180576],[-0.1370428,51.4180499],[-0.1371149,51.4180308]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1393548,51.4151273],[-0.1396146,51.4147847],[-0.139382,51.414719]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1421467,51.4161286],[-0.1421153,51.4160912],[-0.1421076,51.416082],[-0.1420865,51.4160569],[-0.1419849,51.41597],[-0.1415724,51.4156367]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1372963,51.418624],[-0.137433,51.418658],[-0.1374559,51.4186605]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1375001,51.4185642],[-0.1374807,51.4185521],[-0.1373484,51.4185298]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1377165,51.4144471],[-0.1376098,51.4144154],[-0.1370948,51.4142735],[-0.1364246,51.4140843],[-0.1359993,51.4139872],[-0.1353436,51.4138521],[-0.1345019,51.413729],[-0.1343277,51.4137037]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Estreham Road","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1359293,51.4193458],[-0.1359839,51.4193525],[-0.1360004,51.4193686],[-0.1360172,51.4193864],[-0.1360048,51.4194284]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Ellison Road","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1349894,51.4184059],[-0.1349205,51.4184102],[-0.1348804,51.418377],[-0.1348679,51.4183663],[-0.134697,51.4182458],[-0.1346967,51.4181906]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1447742,51.4116195],[-0.1446918,51.411612],[-0.1446325,51.4115743],[-0.1443341,51.411747],[-0.1443096,51.4117301]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1438451,51.4116758],[-0.1442219,51.4118066],[-0.1442447,51.4118039],[-0.1442617,51.4117944],[-0.1442949,51.4117817]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1372102,51.415813],[-0.1379798,51.4161888]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1422491,51.4160687],[-0.1422528,51.4160929],[-0.1421901,51.4161351],[-0.1421467,51.4161286]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1317105,51.4167059],[-0.1318292,51.4166412],[-0.1320043,51.4165431],[-0.1321588,51.4164607],[-0.1322485,51.4164117]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1450244,51.4133856],[-0.144952,51.4134403]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1384333,51.4158823],[-0.1384143,51.4158955],[-0.1381471,51.4160816],[-0.1379857,51.4161851],[-0.1379798,51.4161888],[-0.1378002,51.4163022]]]}}
+]
+}

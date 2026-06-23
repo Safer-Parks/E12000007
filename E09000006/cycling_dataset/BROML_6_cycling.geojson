@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "BROML_6_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.0053144,51.3843839],[0.005368,51.3848467],[0.0053748,51.3852166],[0.005403,51.3854544],[0.0053798,51.3855487],[0.0051068,51.3856688],[0.0049737,51.3856962],[0.0047551,51.3860632]]]}}
+]
+}

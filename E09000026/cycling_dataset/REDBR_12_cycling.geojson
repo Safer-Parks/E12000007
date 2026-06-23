@@ -1,0 +1,20 @@
+{
+"type": "FeatureCollection",
+"name": "REDBR_12_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1297242,51.5718094],[0.1304563,51.5719968],[0.130923,51.5721035],[0.1313441,51.5721885]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.105524,51.5745285],[0.1058352,51.5746451],[0.1060008,51.5746792],[0.1069905,51.5746159],[0.1070924,51.5746275],[0.1071353,51.5746609],[0.1071568,51.5747275],[0.1071367,51.5750092],[0.1071166,51.575291],[0.1071209,51.5753449],[0.1071671,51.57539],[0.1072196,51.5754095]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1073418,51.5754318],[0.1074627,51.5754877],[0.1075189,51.575646],[0.1075566,51.5757277],[0.1076557,51.5757994],[0.1078032,51.5758444],[0.1078944,51.5759061],[0.1079024,51.5759396]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1045035,51.5765047],[0.106483,51.5764147],[0.1067405,51.576358],[0.1068853,51.5762813],[0.1070194,51.5761913],[0.1071535,51.5759713],[0.1070737,51.5754901],[0.1070667,51.5753697],[0.1071209,51.5753449]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1072196,51.5754095],[0.1073418,51.5754318]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1058352,51.5746451],[0.1071209,51.5753449]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1079024,51.5759396],[0.1079293,51.5760528],[0.107881,51.5761761],[0.1077254,51.5763762],[0.1077121,51.5764478],[0.1077443,51.5766129],[0.107771,51.5766995],[0.1078275,51.5767379],[0.1079212,51.5767595],[0.1080419,51.5767479],[0.1081546,51.5767229],[0.1082726,51.5767079],[0.1083772,51.5767279],[0.1084403,51.5767744],[0.1084931,51.5768527]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1079293,51.5760528],[0.1079476,51.5762107],[0.1081356,51.5764902],[0.1082588,51.5766434],[0.1083772,51.5767279]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1084931,51.5768527],[0.1088823,51.5769782],[0.1089325,51.5769946]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Gresham Drive","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.115576,51.5765229],[0.1156324,51.5765353],[0.1156917,51.5765234],[0.1157304,51.5764909]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Gresham Drive","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1168872,51.5762488],[0.1168328,51.5762355],[0.1167696,51.5762498],[0.1167471,51.5762792]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Eccleston Crescent","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1155527,51.5677943],[0.1155621,51.5677801],[0.1155699,51.5677689],[0.1156021,51.5677192]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"High Road","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1110188,51.5668673],[0.111244,51.566915],[0.1142329,51.5674584]]]}}
+]
+}

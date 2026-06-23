@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "BREN5_53_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":"Proyers Path","category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.3149497,51.573817],[-0.3149679,51.5737462],[-0.3149703,51.5736903],[-0.3149619,51.5736424],[-0.3149501,51.5735612],[-0.3149025,51.5734713]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.3185355,51.5705007],[-0.3184988,51.570574],[-0.318436,51.57057],[-0.318391,51.5705535],[-0.3182244,51.5705549],[-0.3179943,51.5705842],[-0.3177156,51.5706281],[-0.317354,51.5706924],[-0.3172261,51.5706642],[-0.3169209,51.5706942],[-0.3164957,51.5708076],[-0.3160304,51.5709116],[-0.3153089,51.5710722],[-0.3149084,51.5711612],[-0.314556,51.5712289],[-0.3142641,51.5712744],[-0.3141745,51.5713217],[-0.314082,51.5713898],[-0.313939,51.5714439],[-0.3135278,51.5714249]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.298597,51.5743663],[-0.2986949,51.5743577],[-0.2987434,51.574353]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Windermere Avenue","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.3087522,51.5760171],[-0.3086303,51.5761716],[-0.3084999,51.5763368]]]}}
+]
+}

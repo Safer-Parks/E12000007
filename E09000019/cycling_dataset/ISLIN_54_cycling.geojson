@@ -1,0 +1,24 @@
+{
+"type": "FeatureCollection",
+"name": "ISLIN_54_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":"Dalmeny Road","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1297993,51.5555786],[-0.1298109,51.5556007],[-0.1298014,51.5556485],[-0.129808,51.5556609]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Stanley Terrace","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1225493,51.5625144],[-0.1226172,51.5625944]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1288791,51.5611327],[-0.1287574,51.5612622],[-0.1287257,51.5612932],[-0.1286932,51.5613803],[-0.1288048,51.5615793],[-0.1289772,51.5617892]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.130576,51.5582232],[-0.1305323,51.5582653],[-0.1305054,51.5582911]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1282525,51.5603944],[-0.1281823,51.5603956],[-0.1281332,51.5603962]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Huddleston Road","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1319716,51.5551824],[-0.1319416,51.5551484],[-0.13191,51.5551127]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1254111,51.5602911],[-0.1256004,51.5604448]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1275685,51.5628826],[-0.1275914,51.5628679],[-0.127621,51.5628478],[-0.1289668,51.5618277]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.125951,51.5563546],[-0.1259565,51.5563104],[-0.125982,51.5561561],[-0.1260611,51.5560269],[-0.1260477,51.5560035],[-0.1259632,51.555936]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Parkhurst Road","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1196519,51.5576444],[-0.1195644,51.5576406],[-0.1195575,51.5576473],[-0.1195492,51.5576553],[-0.1195638,51.5577057]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Parkhurst Road","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1200609,51.5573609],[-0.1199604,51.5573597],[-0.119693,51.5575457],[-0.1197139,51.557603]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1289772,51.5617892],[-0.1289927,51.5618081]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1289668,51.5618277],[-0.1289927,51.5618081]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Ward Road","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1375309,51.5581434],[-0.1376019,51.5581131],[-0.1378049,51.558137],[-0.1379076,51.5581493]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Ward Road","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1378857,51.5582235],[-0.1377828,51.558212],[-0.1375793,51.5581822],[-0.1375309,51.5581434]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Lady Somerset Road","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1398435,51.5551738],[-0.1399017,51.5551565],[-0.1399455,51.5551688],[-0.1399754,51.5552076]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Lady Somerset Road","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1399754,51.5552076],[-0.139905,51.5552256],[-0.1398675,51.5552168],[-0.1398435,51.5551738]]]}}
+]
+}

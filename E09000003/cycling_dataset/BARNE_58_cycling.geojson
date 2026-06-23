@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "BARNE_58_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2467363,51.5960932],[-0.2467886,51.5960373],[-0.2468758,51.5959442],[-0.2469063,51.5959117]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2501069,51.5950992],[-0.2500446,51.5950484]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2395793,51.5940108],[-0.2396704,51.5938954],[-0.2397105,51.5938445],[-0.2402054,51.5932809],[-0.240379,51.5930985],[-0.240445,51.5930291]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2391982,51.5936144],[-0.2393511,51.5936894],[-0.2396704,51.5938954],[-0.2398263,51.5939492],[-0.2408323,51.5943001],[-0.2409548,51.5943428]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2408323,51.5943001],[-0.2408166,51.5944367]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2393511,51.5936894],[-0.2400053,51.59327],[-0.2403019,51.5930748],[-0.240379,51.5930985]]]}}
+]
+}

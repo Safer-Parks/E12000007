@@ -1,0 +1,33 @@
+{
+"type": "FeatureCollection",
+"name": "BARNE_52_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2449835,51.601979],[-0.2449369,51.6019294],[-0.2448926,51.6019151]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2586661,51.5993819],[-0.2589007,51.5995657]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2590458,51.5996742],[-0.25961,51.5999687],[-0.2599767,51.6001219],[-0.2604312,51.6002783],[-0.2606656,51.6003247]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2604312,51.6002783],[-0.2603751,51.6003114],[-0.2602612,51.6003345],[-0.2602037,51.6003577],[-0.2601186,51.6003934],[-0.2600301,51.6004797]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2602037,51.6003577],[-0.2603713,51.6004419],[-0.2605318,51.6005594],[-0.2607119,51.6007282],[-0.2608454,51.6008016],[-0.2609805,51.6008216],[-0.261261,51.6008268],[-0.261506,51.6007985],[-0.261618,51.6007872]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.258463,51.5992238],[-0.2585283,51.599273],[-0.2585921,51.5993232],[-0.2586661,51.5993819]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2589436,51.5996056],[-0.2589756,51.5996294],[-0.2589969,51.5996452]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2589007,51.5995657],[-0.2589333,51.5995912],[-0.2589436,51.5996056]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2589969,51.5996452],[-0.259023,51.599661],[-0.2590458,51.5996742]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2447197,51.6019206],[-0.2444932,51.6019447]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2448926,51.6019151],[-0.2447197,51.6019206]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2462701,51.6059674],[-0.2462111,51.6060126],[-0.2461,51.6060651],[-0.2458686,51.6060972],[-0.2455168,51.6060758],[-0.2450807,51.606267],[-0.2449771,51.606187]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2450807,51.606267],[-0.2449241,51.6062721],[-0.2448966,51.6062831]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2461,51.6060651],[-0.2462739,51.6062172],[-0.2460132,51.6063479],[-0.2459843,51.6064238]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2462739,51.6062172],[-0.2464878,51.6061417],[-0.2466119,51.606135]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2466943,51.606339],[-0.246556,51.6064044]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2451909,51.6072419],[-0.244757,51.6074424]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.244757,51.6074424],[-0.2441319,51.6067073],[-0.244063,51.6067358],[-0.2439814,51.6066576]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.244757,51.6074424],[-0.2450372,51.6078384],[-0.2450513,51.6080313],[-0.2449504,51.6080644]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2479988,51.6061407],[-0.2480078,51.6062342],[-0.2480204,51.6062611]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.250066,51.6060528],[-0.250307,51.6059593]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2533385,51.6048116],[-0.2535098,51.6049196],[-0.253815,51.6047501],[-0.2536568,51.6046449]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2552584,51.6034229],[-0.2552546,51.6033505],[-0.2555899,51.6029853],[-0.2555899,51.6028544],[-0.2555797,51.6028161],[-0.2556312,51.6028321],[-0.2556854,51.6027639]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2595191,51.6016296],[-0.2595869,51.6016082],[-0.2596339,51.6016053],[-0.2600611,51.6015971],[-0.2604189,51.6017561],[-0.2605472,51.6019984],[-0.2605385,51.6020355]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Grahame Park Way","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2404085,51.603238],[-0.2405285,51.6033864],[-0.2408234,51.6037086],[-0.2410189,51.6039308],[-0.2411338,51.6040614]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Grahame Park Way","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2415591,51.6045612],[-0.2419293,51.6049653],[-0.2419827,51.6050249],[-0.2420933,51.6051486],[-0.2425623,51.6055933],[-0.2433197,51.6062628]]]}}
+]
+}

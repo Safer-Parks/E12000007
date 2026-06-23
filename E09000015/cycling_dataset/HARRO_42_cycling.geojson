@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "HARRO_42_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.303855,51.6000239],[-0.3039415,51.5999825]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.3109639,51.5996426],[-0.3109977,51.5996003],[-0.3111173,51.5995608],[-0.3111792,51.5995679]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.3068422,51.5969549],[-0.3069135,51.597044],[-0.3073706,51.5974192],[-0.3074625,51.597621]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Wemborough Road","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.3036739,51.6067156],[-0.30459,51.6065033],[-0.3066996,51.6060018],[-0.3074898,51.605813],[-0.3076408,51.6057769]]]}}
+]
+}

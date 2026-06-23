@@ -1,0 +1,19 @@
+{
+"type": "FeatureCollection",
+"name": "NEWHA_34_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"cycleway","name":"Park Road","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.035372,51.5355512],[0.0354288,51.5355655],[0.035487,51.5355784],[0.0355035,51.5355824]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Florence Road","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.0379724,51.5350521],[0.0374951,51.5353254],[0.0374911,51.5353298]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.03731,51.5359733],[0.0372192,51.5360267]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.0374517,51.5357022],[0.0374376,51.5357277]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.0394935,51.5349849],[0.0395625,51.5349982],[0.0396046,51.5350135],[0.0399598,51.5350814],[0.0399789,51.5350837],[0.0400731,51.5350952]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.0514143,51.5475332],[0.0514342,51.5475648],[0.0514649,51.5475943],[0.0516484,51.5477402]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.0516484,51.5477402],[0.0517054,51.547762],[0.0517223,51.5477642],[0.0517495,51.5477944]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.051408,51.5474944],[0.0514031,51.5475081],[0.0514143,51.5475332]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.0372192,51.5360267],[0.0371751,51.5360409]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.0352843,51.5357739],[0.0352158,51.5357647],[0.0351255,51.5357701]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Florence Road","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[0.0374911,51.5353298],[0.0374613,51.5353631]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Romford Road","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[0.0388942,51.548119],[0.0389664,51.5481333],[0.039216,51.5481753],[0.0396167,51.5482509]]]}}
+]
+}

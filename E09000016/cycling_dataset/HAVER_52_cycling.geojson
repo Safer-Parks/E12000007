@@ -1,0 +1,14 @@
+{
+"type": "FeatureCollection",
+"name": "HAVER_52_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1483464,51.5726856],[0.1488965,51.5727186],[0.1489448,51.5727186],[0.1489796,51.572712],[0.1490091,51.572697],[0.1490199,51.572672],[0.1490574,51.5723152]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.160991,51.5655247],[0.161925,51.5657189],[0.1623273,51.5658024],[0.1624516,51.5658017],[0.1625684,51.5657171],[0.1627386,51.5654749],[0.1631263,51.5649298],[0.1631746,51.5647997],[0.1631693,51.564683],[0.1630512,51.5643495],[0.1630244,51.5641895],[0.1631232,51.5639529]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1489005,51.5656976],[0.1489225,51.5656403],[0.1490959,51.5651884],[0.1491316,51.5650954]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1482131,51.5668791],[0.1482351,51.5668331],[0.1484751,51.5663305],[0.1485039,51.56627]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1486382,51.5662917],[0.1486647,51.5662317],[0.1488636,51.5657811],[0.1489005,51.5656976]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1574612,51.5637774],[0.1575113,51.5637918],[0.157591,51.5638144],[0.1576564,51.5638289],[0.1577944,51.5638989],[0.1578423,51.5639444],[0.1578423,51.5639871],[0.1578086,51.5640245],[0.1574239,51.5642581],[0.1571305,51.5644368],[0.1566674,51.5647239],[0.1565275,51.56479],[0.1564776,51.5648036],[0.1564374,51.5648012],[0.1564051,51.5647887],[0.1563377,51.5647614],[0.1562878,51.5647581]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"High Road","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1428071,51.5723439],[0.1428659,51.572353],[0.1433865,51.5724401],[0.143778,51.5725023],[0.1442785,51.5725762],[0.1444954,51.5726091],[0.1449563,51.5726731],[0.1453246,51.572721],[0.1462895,51.5728209],[0.1463437,51.5728256],[0.1474784,51.5729561],[0.1482851,51.5730586]]]}}
+]
+}

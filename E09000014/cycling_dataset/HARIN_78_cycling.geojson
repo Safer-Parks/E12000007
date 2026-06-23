@@ -1,0 +1,21 @@
+{
+"type": "FeatureCollection",
+"name": "HARIN_78_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":"Alexandra Road","category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.144381,51.6008392],[-0.1442901,51.6009808],[-0.1442163,51.6011377],[-0.1439975,51.6012964],[-0.1438456,51.6014932],[-0.1430933,51.602468]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Muswell Avenue","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1439499,51.599129],[-0.1440192,51.5991574],[-0.1440289,51.5991881],[-0.1439929,51.5992334]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1461881,51.5974811],[-0.1460013,51.5975052],[-0.145789,51.5975477],[-0.1456986,51.5975688]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1506409,51.5997521],[-0.150358,51.5994083]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1578495,51.600837],[-0.1578257,51.6008462],[-0.1577945,51.6008483],[-0.1572836,51.6007877],[-0.1572348,51.6007893],[-0.1571971,51.6008027],[-0.1571264,51.600865],[-0.1570156,51.6010872]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1494424,51.6052589],[-0.1495332,51.6052422]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1495842,51.6053527],[-0.1495734,51.6053301]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1495958,51.6053771],[-0.1495842,51.6053527],[-0.1494949,51.6053691],[-0.1494424,51.6052589],[-0.149456,51.6052502],[-0.1494879,51.6051377]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1564613,51.603814],[-0.1565671,51.6037594],[-0.155762,51.6031544],[-0.1557676,51.6031177],[-0.1558355,51.6030825],[-0.1557382,51.6030102]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Muswell Avenue","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1439929,51.5992334],[-0.1439262,51.5992031],[-0.1439115,51.5991742],[-0.1439499,51.599129]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1530311,51.6078674],[-0.1529315,51.6078303],[-0.1528343,51.6078139]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Grosvenor Road","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1443122,51.6001097],[-0.1442887,51.60013],[-0.1442602,51.6001319],[-0.1442373,51.6001339],[-0.1442004,51.6001186]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Grosvenor Road","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1442004,51.6001186],[-0.1442344,51.6001004],[-0.1442802,51.6000968],[-0.1443122,51.6001097]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1605061,51.5987123],[-0.1607864,51.5989838],[-0.1610693,51.5989355]]]}}
+]
+}

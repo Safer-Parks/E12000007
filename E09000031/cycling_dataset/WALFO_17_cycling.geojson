@@ -1,0 +1,26 @@
+{
+"type": "FeatureCollection",
+"name": "WALFO_17_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.0083711,51.6262622],[-0.0085021,51.6262444]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.0085996,51.6257864],[-0.0087327,51.6257981]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.0109777,51.6252662],[-0.0109777,51.6255533]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.0124819,51.6270396],[-0.0124177,51.6268359]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.0070261,51.6306138],[-0.0070394,51.6307162],[-0.0070536,51.6308385],[-0.0070858,51.6309905],[-0.0072457,51.6311149]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.0158358,51.6265577],[-0.0158264,51.6265966],[-0.0159471,51.6267186],[-0.0161543,51.6268314],[-0.0162703,51.6268277],[-0.0164245,51.6268718]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.0203449,51.6273837],[-0.0200595,51.6273848],[-0.0200428,51.6273418]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.0203449,51.6273837],[-0.0204028,51.6274008]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.0060189,51.6323719],[-0.0060552,51.6323194]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.0063536,51.6322645],[-0.0061166,51.6322189],[-0.0054237,51.6320741]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.0054237,51.6320741],[-0.005193,51.6320332]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.005193,51.6320332],[-0.0049855,51.6319905]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.0049855,51.6319905],[-0.0047287,51.6319096],[-0.0047256,51.6319086]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.0046067,51.6320245],[-0.004562,51.632073],[-0.0041068,51.6324526],[-0.0038503,51.6324182]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.0217701,51.6252751],[-0.0217311,51.6252977],[-0.0216844,51.6253264]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.0216702,51.6253372],[-0.0215342,51.6254253],[-0.0214885,51.6254457],[-0.0214299,51.6254592]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Kings Head Hill","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.0083444,51.6331554],[-0.0085323,51.6332931],[-0.008795,51.6335482],[-0.009157,51.6338419],[-0.0094493,51.6340758],[-0.0096454,51.634238],[-0.0100208,51.6345268],[-0.0103357,51.6347518],[-0.0104959,51.6348598]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Kings Head Hill","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.0104959,51.6348598],[-0.0107144,51.6349849],[-0.010833,51.6350557],[-0.0110729,51.635195],[-0.0118802,51.6356758],[-0.012326,51.6358769]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Kings Head Hill","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.012326,51.6358769],[-0.0125081,51.6359352],[-0.0125471,51.6359477],[-0.0126056,51.6359664],[-0.0128286,51.6360378]]]}}
+]
+}

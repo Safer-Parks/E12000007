@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "SUTTO_2_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.1522276,51.3433338],[-0.1522908,51.343288],[-0.1527428,51.3429607],[-0.1525173,51.3428504]]]}}
+]
+}

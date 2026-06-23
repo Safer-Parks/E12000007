@@ -1,0 +1,24 @@
+{
+"type": "FeatureCollection",
+"name": "BREN5_39_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2862817,51.5556641],[-0.2864511,51.5560402],[-0.2864895,51.5561439],[-0.2864988,51.556169],[-0.286501,51.5562202]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.297246,51.563822],[-0.2971542,51.5640406],[-0.2971906,51.5641027]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2958714,51.5618896],[-0.295906,51.5618501]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2971906,51.5641027],[-0.2971617,51.5643467],[-0.2971551,51.5644134]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2821565,51.5585941],[-0.2821571,51.55865],[-0.2821572,51.5586574],[-0.2821619,51.5591117],[-0.2821637,51.559283],[-0.2821647,51.5593358]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2821091,51.5591124],[-0.2821619,51.5591117],[-0.2823428,51.5590951]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2899972,51.5491946],[-0.2899521,51.5491469],[-0.2899199,51.5491187],[-0.289904,51.5490672],[-0.2898553,51.5487266],[-0.2898815,51.5486584]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2968043,51.5582812],[-0.2966778,51.5584024]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Lakeside Way","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2820656,51.5577078],[-0.2820796,51.5576842],[-0.2821512,51.5576837],[-0.2821688,51.5577071]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"Lakeside Way","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2821688,51.5577071],[-0.282148,51.5577267],[-0.2820853,51.5577267],[-0.2820656,51.5577078]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"St Augustine's Avenue","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2958146,51.5619715],[-0.2958421,51.5619192],[-0.2957579,51.5619173],[-0.2957556,51.5618942]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2957556,51.5618942],[-0.295752,51.5618543],[-0.2957496,51.5618279]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":null,"category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2957496,51.5618279],[-0.2957461,51.5618062],[-0.2958106,51.5617979],[-0.2958522,51.5617796],[-0.2959032,51.5617404],[-0.2959439,51.5617486]]]}},
+{"type":"Feature","properties":{"highway":"cycleway","name":"St Augustine's Avenue","category":"Dedicated cycleway"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2958421,51.5619192],[-0.2958714,51.5618896]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Lakeside Way","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2820656,51.5577078],[-0.2820382,51.5577079]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Lakeside Way","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2823232,51.5577071],[-0.2821688,51.5577071]]]}},
+{"type":"Feature","properties":{"highway":"cycle_lane_on_street","name":"Lakeside Way","category":"Cycle lane on street"},"geometry":{"type":"MultiLineString","coordinates":[[[-0.2820382,51.5577079],[-0.2819849,51.557708]]]}}
+]
+}

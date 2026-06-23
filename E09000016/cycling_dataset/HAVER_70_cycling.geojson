@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "HAVER_70_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1770925,51.5699337],[0.1758415,51.5696585]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1649442,51.5759634],[0.1649151,51.5760145],[0.1648942,51.5760511],[0.1647254,51.5764072],[0.1647158,51.5764275],[0.1640954,51.5763005],[0.1640072,51.5763024],[0.1639174,51.5763294],[0.1638539,51.5763717],[0.1637873,51.576441],[0.1637163,51.5764773],[0.1636524,51.5764969],[0.1636031,51.5765132],[0.1635706,51.5765536],[0.163569,51.5766382],[0.1637377,51.5779395],[0.1637512,51.5780443]]]}},
+{"type":"Feature","properties":{"highway":"track","name":null,"category":"Track"},"geometry":{"type":"MultiLineString","coordinates":[[[0.160991,51.5655247],[0.161925,51.5657189],[0.1623273,51.5658024],[0.1624516,51.5658017],[0.1625684,51.5657171],[0.1627386,51.5654749],[0.1631263,51.5649298],[0.1631746,51.5647997],[0.1631693,51.564683],[0.1630512,51.5643495],[0.1630244,51.5641895],[0.1631232,51.5639529]]]}},
+{"type":"Feature","properties":{"highway":"path","name":null,"category":"Shared path"},"geometry":{"type":"MultiLineString","coordinates":[[[0.1751943,51.5708211],[0.1750184,51.5708177]]]}}
+]
+}
