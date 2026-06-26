@@ -5,6 +5,7 @@
 "features": [
 { "type": "Feature", "properties": { "osm_id": 11913605221, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.3065535, 51.5016733 ] } },
 { "type": "Feature", "properties": { "osm_id": 11913605222, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.3059415, 51.5017236 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11913605220, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.3067148, 51.5018015 ] } },
 { "type": "Feature", "properties": { "osm_id": 11913605223, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.3055487, 51.5018731 ] } }
 ]
 }

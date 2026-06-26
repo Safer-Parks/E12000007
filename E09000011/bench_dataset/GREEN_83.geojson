@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "GREEN_83",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 13763436565, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.0705035, 51.4944519 ] } },
+{ "type": "Feature", "properties": { "osm_id": 10943542476, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.0707895, 51.4947176 ] } }
+]
+}

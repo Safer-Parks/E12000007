@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "WESTM_192",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 11230594282, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.1444369, 51.4856893 ] } }
+]
+}

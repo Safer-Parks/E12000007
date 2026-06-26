@@ -3,7 +3,6 @@
 "name": "NEWHA_2",
 "crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
 "features": [
-{ "type": "Feature", "properties": { "osm_id": 4715804740, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.0481237, 51.5019067 ] } },
 { "type": "Feature", "properties": { "osm_id": 4715804744, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.0476729, 51.5019977 ] } },
 { "type": "Feature", "properties": { "osm_id": 4715804745, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.0479561, 51.5020557 ] } }
 ]
