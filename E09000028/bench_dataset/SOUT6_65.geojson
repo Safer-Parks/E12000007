@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "SOUT6_65",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 13123248738, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.0928735, 51.4970485 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13123248735, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.0936523, 51.4970754 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13123248737, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.0938278, 51.4970576 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13123248736, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.0936898, 51.4971056 ] } }
+]
+}

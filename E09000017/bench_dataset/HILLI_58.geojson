@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "HILLI_58",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 9405520524, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.4519616, 51.5635657 ] } }
+]
+}

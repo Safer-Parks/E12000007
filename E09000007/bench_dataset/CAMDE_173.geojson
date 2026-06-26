@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "CAMDE_173",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 10130184219, "name": "The Olympic Ring benches", "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.1274472, 51.5343413 ] } },
+{ "type": "Feature", "properties": { "osm_id": 10130184218, "name": "The Olympic Ring benches", "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.1274606, 51.5343542 ] } },
+{ "type": "Feature", "properties": { "osm_id": 10130184220, "name": "The Olympic Ring benches", "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.1275318, 51.5344286 ] } },
+{ "type": "Feature", "properties": { "osm_id": 10130184221, "name": "The Olympic Ring benches", "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.1275229, 51.5344439 ] } }
+]
+}

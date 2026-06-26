@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "SOUT6_34",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 8758161787, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.0867824, 51.4601768 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8758161784, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.0861375, 51.4609963 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8758161785, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.0856951, 51.4612925 ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "WALFO_126",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 5583447855, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.0045243, 51.5591924 ] } },
+{ "type": "Feature", "properties": { "osm_id": 5583447854, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.0045049, 51.5593249 ] } }
+]
+}

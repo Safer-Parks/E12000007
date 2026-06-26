@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "LEWIS_48",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 11173632976, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.0105478, 51.4474295 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11089843594, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.0102025, 51.4474792 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11173632975, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.0097257, 51.4475227 ] } }
+]
+}

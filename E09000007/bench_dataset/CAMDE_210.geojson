@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "CAMDE_210",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 11530948337, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.1362628, 51.5496265 ] } }
+]
+}

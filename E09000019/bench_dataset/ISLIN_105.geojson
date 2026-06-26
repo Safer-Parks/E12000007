@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "ISLIN_105",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 11037828446, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.1266779, 51.557544 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11037828447, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.1266803, 51.5575782 ] } }
+]
+}

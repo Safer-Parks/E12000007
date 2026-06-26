@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "HARIN_63",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 12602045345, "name": "Jimmy C Coletsis (1960-2021)", "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": "plaque" }, "geometry": { "type": "Point", "coordinates": [ -0.115481, 51.5869239 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12007840560, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.1157132, 51.5875831 ] } }
+]
+}

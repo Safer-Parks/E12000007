@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "ENFIE_65",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 10282976445, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.0475017, 51.6216445 ] } }
+]
+}

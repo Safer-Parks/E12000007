@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "LEWIS_45",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 9429617118, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.0140469, 51.4424759 ] } }
+]
+}

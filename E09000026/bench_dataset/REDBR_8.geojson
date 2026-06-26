@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "REDBR_8",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 12609786703, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.0286625, 51.5811835 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12609746198, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.0285462, 51.5813474 ] } }
+]
+}

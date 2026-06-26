@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "SUTTO_17",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 10906025149, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.1548285, 51.3689581 ] } },
+{ "type": "Feature", "properties": { "osm_id": 10906025148, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.1546079, 51.369069 ] } },
+{ "type": "Feature", "properties": { "osm_id": 10906025147, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.1543139, 51.3690803 ] } }
+]
+}

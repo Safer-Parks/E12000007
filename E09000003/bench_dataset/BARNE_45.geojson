@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "BARNE_45",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 5017970625, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.2090994, 51.5960087 ] } },
+{ "type": "Feature", "properties": { "osm_id": 5017970626, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.209287, 51.5962732 ] } }
+]
+}

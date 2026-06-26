@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "EALIN_170",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 7650383084, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.3333731, 51.4982641 ] } },
+{ "type": "Feature", "properties": { "osm_id": 7646495849, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.3345607, 51.4986222 ] } },
+{ "type": "Feature", "properties": { "osm_id": 7646495850, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.3341785, 51.4986983 ] } },
+{ "type": "Feature", "properties": { "osm_id": 7646495851, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.3338192, 51.4987437 ] } }
+]
+}

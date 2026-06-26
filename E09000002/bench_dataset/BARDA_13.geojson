@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "BARDA_13",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 12568230004, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.1412509, 51.534922 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12568230003, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.1409057, 51.5356921 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12568228065, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.1374887, 51.5357384 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12568230002, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.1417134, 51.5361723 ] } }
+]
+}

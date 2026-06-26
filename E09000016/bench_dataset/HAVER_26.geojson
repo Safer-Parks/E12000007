@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "HAVER_26",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 9001576706, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.236615, 51.5527392 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9001613375, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.236794, 51.5531047 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9001613376, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.236988, 51.5534639 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9001614620, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.2379032, 51.5543027 ] } }
+]
+}
