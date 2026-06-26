@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "WESTM_71",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 13274130716, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.1339879, 51.485669 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13274157409, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.1339311, 51.4856756 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13274151789, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.1337945, 51.4857011 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13274142494, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.1336593, 51.4857262 ] } }
+]
+}

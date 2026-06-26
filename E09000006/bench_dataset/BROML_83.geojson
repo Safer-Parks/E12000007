@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "BROML_83",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 9387647351, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.0399005, 51.4185025 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9387647352, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.0394049, 51.4194597 ] } }
+]
+}

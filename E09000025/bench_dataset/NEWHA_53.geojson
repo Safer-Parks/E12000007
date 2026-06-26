@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "NEWHA_53",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 8416544641, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.0549516, 51.5014664 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8416544640, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.0549736, 51.5015066 ] } }
+]
+}

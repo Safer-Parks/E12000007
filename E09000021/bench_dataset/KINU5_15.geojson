@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "KINU5_15",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 8445776920, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.2956907, 51.3863412 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8445776919, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.2954587, 51.3864232 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11192835842, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.294146, 51.3867329 ] } },
+{ "type": "Feature", "properties": { "osm_id": 11211789193, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.2926596, 51.3879923 ] } }
+]
+}

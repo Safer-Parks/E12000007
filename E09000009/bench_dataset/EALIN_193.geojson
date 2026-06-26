@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "EALIN_193",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 13094297207, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.3092187, 51.5156656 ] } },
+{ "type": "Feature", "properties": { "osm_id": 13094297208, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.3095854, 51.5164311 ] } }
+]
+}

@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "BREN5_42",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 12169598456, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.2506896, 51.5399388 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12169598458, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.2506253, 51.5399549 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12169598457, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.2505622, 51.5399574 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12169598459, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.2503229, 51.5400835 ] } }
+]
+}

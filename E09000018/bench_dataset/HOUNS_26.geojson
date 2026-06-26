@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "HOUNS_26",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 9433446871, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.386965, 51.4708891 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9433446854, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.3875345, 51.471316 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9433446878, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.3872891, 51.4714415 ] } }
+]
+}

@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "KINU5_40",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 8155946993, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.276754, 51.4033528 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8155946992, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.2768571, 51.4035321 ] } }
+]
+}

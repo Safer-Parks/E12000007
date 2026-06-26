@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "ENFIE_116",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 4467733614, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.0620348, 51.6631109 ] } },
+{ "type": "Feature", "properties": { "osm_id": 4467733615, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.0620073, 51.6631111 ] } }
+]
+}

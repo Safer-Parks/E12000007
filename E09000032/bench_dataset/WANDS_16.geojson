@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "WANDS_16",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 8679839247, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.175638, 51.4281191 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8679839259, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.1756891, 51.4281659 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8679839233, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.1757464, 51.4282005 ] } }
+]
+}

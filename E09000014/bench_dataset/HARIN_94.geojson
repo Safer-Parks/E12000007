@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "HARIN_94",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 12372319091, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.1182435, 51.5830664 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12372319090, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.1184092, 51.5831041 ] } }
+]
+}

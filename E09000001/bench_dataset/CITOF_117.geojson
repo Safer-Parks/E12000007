@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "CITOF_117",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 12650827105, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.110423, 51.5149657 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12650827106, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.1103563, 51.5149748 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12650827101, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.1104456, 51.5150148 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12650816300, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.1103789, 51.5150239 ] } }
+]
+}

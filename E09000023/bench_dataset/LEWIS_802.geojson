@@ -1,0 +1,11 @@
+{
+"type": "FeatureCollection",
+"name": "LEWIS_802",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 12987802768, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.0440618, 51.4678722 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12987863384, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.0445341, 51.4678966 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12987802769, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.0443072, 51.4679029 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12987863383, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.0443979, 51.4679471 ] } }
+]
+}

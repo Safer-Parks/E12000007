@@ -1,0 +1,13 @@
+{
+"type": "FeatureCollection",
+"name": "WALFO_123",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 9519106653, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.0104497, 51.5995231 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9519106652, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.0104573, 51.5995755 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9519106650, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.0111092, 51.600054 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9519106651, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.0110612, 51.6000561 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12974146614, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.0100949, 51.6001219 ] } },
+{ "type": "Feature", "properties": { "osm_id": 12974215218, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.0100752, 51.6001233 ] } }
+]
+}

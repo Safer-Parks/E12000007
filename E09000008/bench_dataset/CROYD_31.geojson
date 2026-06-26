@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "CROYD_31",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 8750928581, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.0573198, 51.3621202 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8750899647, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.0550113, 51.3627393 ] } },
+{ "type": "Feature", "properties": { "osm_id": 2738199205, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.0531218, 51.3668646 ] } }
+]
+}

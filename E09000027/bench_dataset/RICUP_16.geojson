@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "RICUP_16",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 7611879534, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.3338803, 51.4271309 ] } },
+{ "type": "Feature", "properties": { "osm_id": 7611879535, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.3339713, 51.4271368 ] } }
+]
+}

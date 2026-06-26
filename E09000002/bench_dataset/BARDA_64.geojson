@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "BARDA_64",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 8355197016, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.1075209, 51.5194773 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8355197015, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.1075426, 51.5195342 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8355197014, "name": null, "amenity": null, "man_made": null, "leisure": "picnic_table", "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ 0.1075153, 51.5195887 ] } }
+]
+}

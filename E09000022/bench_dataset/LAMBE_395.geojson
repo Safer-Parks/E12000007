@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "LAMBE_395",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 8818446952, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.1108453, 51.4918202 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8818446951, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.11085, 51.4918394 ] } },
+{ "type": "Feature", "properties": { "osm_id": 8818446946, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.1108535, 51.4918542 ] } }
+]
+}

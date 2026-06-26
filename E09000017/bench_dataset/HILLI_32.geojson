@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "HILLI_32",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 9785539763, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.4321072, 51.5686227 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9785539762, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.432057, 51.5687428 ] } },
+{ "type": "Feature", "properties": { "osm_id": 9785539761, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.4321535, 51.5688003 ] } }
+]
+}

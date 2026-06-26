@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "CITOF_22",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 10812423194, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.0976264, 51.5130034 ] } },
+{ "type": "Feature", "properties": { "osm_id": 10812423193, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.0978953, 51.5130393 ] } },
+{ "type": "Feature", "properties": { "osm_id": 10812423192, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.0978389, 51.5130593 ] } }
+]
+}

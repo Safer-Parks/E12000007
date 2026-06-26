@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "CROYD_2",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 5745601156, "name": null, "amenity": "bench", "man_made": null, "leisure": null, "playground": null, "memorial": null }, "geometry": { "type": "Point", "coordinates": [ -0.1198085, 51.3712966 ] } }
+]
+}
