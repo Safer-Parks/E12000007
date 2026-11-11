@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "BROML_140_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 379392996, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.1014452, 51.3563279 ], [ 0.1027813, 51.3567825 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 379392844, "highway": "footway", "name": null, "category": "Shared path", "bicycle": "yes", "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.098338, 51.3566305 ], [ 0.0985993, 51.3565964 ], [ 0.0993025, 51.3565046 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 661443147, "highway": "cycleway", "name": null, "category": "Dedicated cycleway", "bicycle": null, "access": null, "foot": "yes", "designatn": null, "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.1254659, 51.3561318 ], [ 0.1253603, 51.3562402 ], [ 0.1251413, 51.3564368 ], [ 0.1250592, 51.3564659 ], [ 0.1248269, 51.3566453 ], [ 0.1246295, 51.3567815 ], [ 0.1241627, 51.3571038 ], [ 0.1228402, 51.3579394 ], [ 0.1225205, 51.3581601 ], [ 0.1222739, 51.3582986 ], [ 0.122192, 51.3583769 ], [ 0.1216517, 51.3587381 ], [ 0.1214653, 51.3588577 ], [ 0.1207618, 51.3592772 ], [ 0.1193728, 51.3600434 ], [ 0.1184092, 51.3605939 ], [ 0.1168632, 51.3614462 ], [ 0.1146931, 51.3626438 ], [ 0.1143164, 51.3628469 ], [ 0.1141928, 51.3628822 ], [ 0.1140987, 51.3629287 ], [ 0.1139756, 51.363001 ], [ 0.113823, 51.3630906 ], [ 0.1132653, 51.3634182 ], [ 0.1124573, 51.3638565 ], [ 0.1116022, 51.3643159 ], [ 0.1115728, 51.3643268 ], [ 0.1115319, 51.3643299 ], [ 0.1114546, 51.3643801 ], [ 0.1113451, 51.3644284 ], [ 0.1112861, 51.3644827 ], [ 0.1111761, 51.3645646 ], [ 0.11072, 51.3648876 ], [ 0.1104841, 51.3650853 ], [ 0.1103645, 51.365198 ] ] } }
+]
+}

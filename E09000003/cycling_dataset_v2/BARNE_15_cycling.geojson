@@ -1,0 +1,9 @@
+{
+"type": "FeatureCollection",
+"name": "BARNE_15_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 150573743, "highway": "bridleway", "name": null, "category": "Bridleway", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.1952582, 51.6675689 ], [ -0.1948464, 51.6675214 ], [ -0.1947333, 51.6675084 ], [ -0.193846, 51.66741 ], [ -0.1932956, 51.6673482 ], [ -0.1924647, 51.6672469 ], [ -0.191373, 51.6671188 ], [ -0.1909653, 51.6670723 ], [ -0.1908201, 51.6670762 ], [ -0.1906569, 51.6670806 ], [ -0.1906047, 51.6670767 ], [ -0.1905544, 51.6670704 ], [ -0.1905182, 51.6670525 ], [ -0.1904753, 51.6670253 ], [ -0.1904285, 51.6669876 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1073925637, "highway": "residential", "name": "Christ Church Lane", "category": "Cycle lane on street", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ -0.2032582, 51.6597557 ], [ -0.2032475, 51.6594885 ], [ -0.2033324, 51.6591496 ] ] } }
+]
+}

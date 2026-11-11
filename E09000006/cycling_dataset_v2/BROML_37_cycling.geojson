@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "BROML_37_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 228362501, "highway": "bridleway", "name": "Birdhouse Lane", "category": "Bridleway", "bicycle": null, "access": "yes", "foot": null, "designatn": "public_bridleway", "segregatd": null, "surface": null }, "geometry": { "type": "LineString", "coordinates": [ [ 0.0512249, 51.3211661 ], [ 0.0510052, 51.3206413 ], [ 0.0509342, 51.3204913 ] ] } }
+]
+}

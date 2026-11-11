@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "HAVER_13_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 806598006, "highway": "cycleway", "name": "New Road", "category": "Dedicated cycleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.218484, 51.5139164 ], [ 0.2179391, 51.514211 ], [ 0.2171251, 51.5146308 ], [ 0.2168515, 51.5147469 ], [ 0.2168209, 51.5147944 ], [ 0.2167448, 51.5148337 ], [ 0.2165651, 51.5149141 ], [ 0.2164833, 51.5149277 ], [ 0.2159983, 51.5151875 ], [ 0.214646, 51.5158659 ], [ 0.2108189, 51.5178264 ], [ 0.2102348, 51.5181636 ], [ 0.2101501, 51.5182125 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1462406518, "highway": "cycleway", "name": "New Road", "category": "Dedicated cycleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.2220761, 51.511651 ], [ 0.2219602, 51.5117534 ], [ 0.2215478, 51.5121295 ], [ 0.2207807, 51.5126871 ], [ 0.2202362, 51.5130126 ], [ 0.2198473, 51.5132362 ], [ 0.2186731, 51.5138168 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 1462406519, "highway": "cycleway", "name": "New Road", "category": "Dedicated cycleway", "bicycle": "designated", "access": null, "foot": "designated", "designatn": null, "segregatd": "no", "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.2186731, 51.5138168 ], [ 0.2185563, 51.5138746 ], [ 0.218484, 51.5139164 ] ] } }
+]
+}

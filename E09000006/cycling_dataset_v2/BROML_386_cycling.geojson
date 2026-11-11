@@ -1,0 +1,10 @@
+{
+"type": "FeatureCollection",
+"name": "BROML_386_cycling",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "osm_id": 880666047, "highway": "tertiary", "name": "Main Road", "category": "Signed cycle route", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.1184175, 51.4031898 ], [ 0.1184098, 51.4031151 ], [ 0.1182682, 51.4029891 ], [ 0.1181287, 51.4029197 ], [ 0.118013, 51.4028789 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 43587419, "highway": "tertiary", "name": "Main Road", "category": "Signed cycle route", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.118013, 51.4028789 ], [ 0.1179315, 51.402811 ], [ 0.117796, 51.4027055 ], [ 0.1176932, 51.4026256 ], [ 0.1176312, 51.4025737 ], [ 0.1175834, 51.4025265 ], [ 0.1175433, 51.4024811 ], [ 0.1175002, 51.4024232 ], [ 0.1174231, 51.4023045 ], [ 0.1171966, 51.4019288 ], [ 0.1170966, 51.4017682 ], [ 0.1170281, 51.4016669 ], [ 0.1169651, 51.4015795 ], [ 0.1168443, 51.4014239 ], [ 0.116707, 51.4012359 ], [ 0.1166122, 51.4010929 ], [ 0.1164748, 51.400885 ] ] } },
+{ "type": "Feature", "properties": { "osm_id": 880666048, "highway": "tertiary", "name": "Main Road", "category": "Signed cycle route", "bicycle": null, "access": null, "foot": null, "designatn": null, "segregatd": null, "surface": "asphalt" }, "geometry": { "type": "LineString", "coordinates": [ [ 0.1164138, 51.4042273 ], [ 0.1169887, 51.4040595 ], [ 0.1171143, 51.4040141 ], [ 0.1173432, 51.4039097 ], [ 0.1174667, 51.4038371 ], [ 0.1176486, 51.4037325 ], [ 0.1178932, 51.403584 ], [ 0.1180784, 51.4034666 ], [ 0.1182815, 51.4033145 ], [ 0.1183388, 51.4032628 ], [ 0.1184175, 51.4031898 ] ] } }
+]
+}
